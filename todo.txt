@@ -1,0 +1,4 @@
+Turn off Debt Button
+Adjust interest Rate Button
+Time Buttons
+Stat Pane
