@@ -2,21 +2,8 @@
 #Each digital person goes out and spendsa certain amount of money every day.
 #Each act of spending involves giving their money to other people.
 #Some goods and services are produced by many people, so the money spent may be split between those people.
-#The expected result is that some people's wealth will increase, and others will decrease
+#The expected result is that inequality will increase.
 
-#Is this an accurate simulation of the economy?
-#The instinctual answer might be to say, "of course not!"
-#"People are given more money based on how hard they work, right?"
-#However, how do we define "hard work?" If money represents how hard
-#you work because you are given money for working hard, you've fallen
-#into a kind of circular logic. Until there becomes some independent
-#metric for "hard" or "desireable" work, we can't assume wealth is
-#a representation of anything.
-
-#The stock market is unpredictable. While trends can appear, they can
-#also reverse. And the biggest trend of all is demonstrated by this program:
-#those with wealth will increase their wealth. Those without wealth, will
-#tend to lose wealth.
 
 from pprint import pprint
 import random
