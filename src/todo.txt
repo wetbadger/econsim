@@ -1,0 +1,14 @@
+Toggle Debt Button
+Adjust interest Rate Field
+Time Buttons
+Stat Pane
+
+Commodities
+Jobs
+Main Menu
+Print Money
+Other Policies
+
+BUGS:
+
+Some people are getting very low interest rates. Do poor people with longer payments get unusually low rates?

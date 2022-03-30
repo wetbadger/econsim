@@ -1,4 +1,4 @@
-0  Society 1  $10000000.00
+0  Society 1  $1000000.00
 0  Society 1  Average Debt: $0.00
 0  Society 1  Average Delinquency: 0
 0  Society 1  Default Rate: 0
@@ -9,7 +9,7 @@
 0  Society 1  Average Interest Rate: 0.005
 0  Society 1  Average Credit Score: 600
 0  Society 1  Credit Risk: 0.1
-1  Society 1  $10000000.00
+1  Society 1  $1000000.00
 1  Society 1  Average Debt: $0.00
 1  Society 1  Average Delinquency: 0
 1  Society 1  Default Rate: 0
@@ -20,7 +20,7 @@
 1  Society 1  Average Interest Rate: 0.005
 1  Society 1  Average Credit Score: 600
 1  Society 1  Credit Risk: 0.1
-2  Society 1  $10000000.00
+2  Society 1  $1000000.00
 2  Society 1  Average Debt: $0.00
 2  Society 1  Average Delinquency: 0
 2  Society 1  Default Rate: 0
@@ -31,7 +31,7 @@
 2  Society 1  Average Interest Rate: 0.005
 2  Society 1  Average Credit Score: 600
 2  Society 1  Credit Risk: 0.1
-3  Society 1  $10000000.00
+3  Society 1  $1000000.00
 3  Society 1  Average Debt: $0.00
 3  Society 1  Average Delinquency: 0
 3  Society 1  Default Rate: 0
@@ -42,7 +42,7 @@
 3  Society 1  Average Interest Rate: 0.005
 3  Society 1  Average Credit Score: 600
 3  Society 1  Credit Risk: 0.1
-4  Society 1  $10000000.00
+4  Society 1  $1000000.00
 4  Society 1  Average Debt: $0.00
 4  Society 1  Average Delinquency: 0
 4  Society 1  Default Rate: 0
@@ -53,7 +53,7 @@
 4  Society 1  Average Interest Rate: 0.005
 4  Society 1  Average Credit Score: 600
 4  Society 1  Credit Risk: 0.1
-5  Society 1  $10000000.00
+5  Society 1  $1000000.00
 5  Society 1  Average Debt: $0.00
 5  Society 1  Average Delinquency: 0
 5  Society 1  Default Rate: 0
@@ -64,7 +64,7 @@
 5  Society 1  Average Interest Rate: 0.005
 5  Society 1  Average Credit Score: 600
 5  Society 1  Credit Risk: 0.1
-6  Society 1  $10000000.00
+6  Society 1  $1000000.00
 6  Society 1  Average Debt: $0.00
 6  Society 1  Average Delinquency: 0
 6  Society 1  Default Rate: 0
@@ -75,7 +75,7 @@
 6  Society 1  Average Interest Rate: 0.005
 6  Society 1  Average Credit Score: 600
 6  Society 1  Credit Risk: 0.1
-7  Society 1  $10000000.00
+7  Society 1  $1000000.00
 7  Society 1  Average Debt: $0.00
 7  Society 1  Average Delinquency: 0
 7  Society 1  Default Rate: 0
@@ -86,7 +86,7 @@
 7  Society 1  Average Interest Rate: 0.005
 7  Society 1  Average Credit Score: 600
 7  Society 1  Credit Risk: 0.1
-8  Society 1  $10000000.00
+8  Society 1  $1000000.00
 8  Society 1  Average Debt: $0.00
 8  Society 1  Average Delinquency: 0
 8  Society 1  Default Rate: 0
@@ -97,7 +97,7 @@
 8  Society 1  Average Interest Rate: 0.005
 8  Society 1  Average Credit Score: 600
 8  Society 1  Credit Risk: 0.1
-9  Society 1  $10000000.00
+9  Society 1  $1000000.00
 9  Society 1  Average Debt: $0.00
 9  Society 1  Average Delinquency: 0
 9  Society 1  Default Rate: 0
@@ -108,7 +108,7 @@
 9  Society 1  Average Interest Rate: 0.005
 9  Society 1  Average Credit Score: 600
 9  Society 1  Credit Risk: 0.1
-10  Society 1  $10000000.00
+10  Society 1  $1000000.00
 10  Society 1  Average Debt: $0.00
 10  Society 1  Average Delinquency: 0
 10  Society 1  Default Rate: 0
@@ -119,7 +119,7 @@
 10  Society 1  Average Interest Rate: 0.005
 10  Society 1  Average Credit Score: 600
 10  Society 1  Credit Risk: 0.1
-11  Society 1  $10000000.00
+11  Society 1  $1000000.00
 11  Society 1  Average Debt: $0.00
 11  Society 1  Average Delinquency: 0
 11  Society 1  Default Rate: 0
@@ -130,7 +130,7 @@
 11  Society 1  Average Interest Rate: 0.005
 11  Society 1  Average Credit Score: 600
 11  Society 1  Credit Risk: 0.1
-12  Society 1  $10000000.00
+12  Society 1  $1000000.00
 12  Society 1  Average Debt: $0.00
 12  Society 1  Average Delinquency: 0
 12  Society 1  Default Rate: 0
@@ -141,7 +141,7 @@
 12  Society 1  Average Interest Rate: 0.005
 12  Society 1  Average Credit Score: 600
 12  Society 1  Credit Risk: 0.1
-13  Society 1  $10000000.00
+13  Society 1  $1000000.00
 13  Society 1  Average Debt: $0.00
 13  Society 1  Average Delinquency: 0
 13  Society 1  Default Rate: 0
@@ -152,7 +152,7 @@
 13  Society 1  Average Interest Rate: 0.005
 13  Society 1  Average Credit Score: 600
 13  Society 1  Credit Risk: 0.1
-14  Society 1  $10000000.00
+14  Society 1  $1000000.00
 14  Society 1  Average Debt: $0.00
 14  Society 1  Average Delinquency: 0
 14  Society 1  Default Rate: 0
@@ -163,7 +163,7 @@
 14  Society 1  Average Interest Rate: 0.005
 14  Society 1  Average Credit Score: 600
 14  Society 1  Credit Risk: 0.1
-15  Society 1  $10000000.00
+15  Society 1  $1000000.00
 15  Society 1  Average Debt: $0.00
 15  Society 1  Average Delinquency: 0
 15  Society 1  Default Rate: 0
@@ -174,7 +174,7 @@
 15  Society 1  Average Interest Rate: 0.005
 15  Society 1  Average Credit Score: 600
 15  Society 1  Credit Risk: 0.1
-16  Society 1  $10000000.00
+16  Society 1  $1000000.00
 16  Society 1  Average Debt: $0.00
 16  Society 1  Average Delinquency: 0
 16  Society 1  Default Rate: 0
@@ -185,7 +185,7 @@
 16  Society 1  Average Interest Rate: 0.005
 16  Society 1  Average Credit Score: 600
 16  Society 1  Credit Risk: 0.1
-17  Society 1  $10000000.00
+17  Society 1  $1000000.00
 17  Society 1  Average Debt: $0.00
 17  Society 1  Average Delinquency: 0
 17  Society 1  Default Rate: 0
@@ -196,7 +196,7 @@
 17  Society 1  Average Interest Rate: 0.005
 17  Society 1  Average Credit Score: 600
 17  Society 1  Credit Risk: 0.1
-18  Society 1  $10000000.00
+18  Society 1  $1000000.00
 18  Society 1  Average Debt: $0.00
 18  Society 1  Average Delinquency: 0
 18  Society 1  Default Rate: 0
@@ -207,7 +207,7 @@
 18  Society 1  Average Interest Rate: 0.005
 18  Society 1  Average Credit Score: 600
 18  Society 1  Credit Risk: 0.1
-19  Society 1  $10000000.00
+19  Society 1  $1000000.00
 19  Society 1  Average Debt: $0.00
 19  Society 1  Average Delinquency: 0
 19  Society 1  Default Rate: 0
@@ -218,7 +218,7 @@
 19  Society 1  Average Interest Rate: 0.005
 19  Society 1  Average Credit Score: 600
 19  Society 1  Credit Risk: 0.1
-20  Society 1  $10000000.00
+20  Society 1  $1000000.00
 20  Society 1  Average Debt: $0.00
 20  Society 1  Average Delinquency: 0
 20  Society 1  Default Rate: 0
@@ -229,7 +229,7 @@
 20  Society 1  Average Interest Rate: 0.005
 20  Society 1  Average Credit Score: 600
 20  Society 1  Credit Risk: 0.1
-21  Society 1  $10000000.00
+21  Society 1  $1000000.00
 21  Society 1  Average Debt: $0.00
 21  Society 1  Average Delinquency: 0
 21  Society 1  Default Rate: 0
@@ -240,7 +240,7 @@
 21  Society 1  Average Interest Rate: 0.005
 21  Society 1  Average Credit Score: 600
 21  Society 1  Credit Risk: 0.1
-22  Society 1  $10000000.00
+22  Society 1  $1000000.00
 22  Society 1  Average Debt: $0.00
 22  Society 1  Average Delinquency: 0
 22  Society 1  Default Rate: 0
@@ -251,7 +251,7 @@
 22  Society 1  Average Interest Rate: 0.005
 22  Society 1  Average Credit Score: 600
 22  Society 1  Credit Risk: 0.1
-23  Society 1  $10000000.00
+23  Society 1  $1000000.00
 23  Society 1  Average Debt: $0.00
 23  Society 1  Average Delinquency: 0
 23  Society 1  Default Rate: 0
@@ -262,7 +262,7 @@
 23  Society 1  Average Interest Rate: 0.005
 23  Society 1  Average Credit Score: 600
 23  Society 1  Credit Risk: 0.1
-24  Society 1  $10000000.00
+24  Society 1  $1000000.00
 24  Society 1  Average Debt: $0.00
 24  Society 1  Average Delinquency: 0
 24  Society 1  Default Rate: 0
@@ -273,7 +273,7 @@
 24  Society 1  Average Interest Rate: 0.005
 24  Society 1  Average Credit Score: 600
 24  Society 1  Credit Risk: 0.1
-25  Society 1  $10000000.00
+25  Society 1  $1000000.00
 25  Society 1  Average Debt: $0.00
 25  Society 1  Average Delinquency: 0
 25  Society 1  Default Rate: 0
@@ -284,7 +284,7 @@
 25  Society 1  Average Interest Rate: 0.005
 25  Society 1  Average Credit Score: 600
 25  Society 1  Credit Risk: 0.1
-26  Society 1  $10000000.00
+26  Society 1  $1000000.00
 26  Society 1  Average Debt: $0.00
 26  Society 1  Average Delinquency: 0
 26  Society 1  Default Rate: 0
@@ -295,7 +295,7 @@
 26  Society 1  Average Interest Rate: 0.005
 26  Society 1  Average Credit Score: 600
 26  Society 1  Credit Risk: 0.1
-27  Society 1  $10000000.00
+27  Society 1  $1000000.00
 27  Society 1  Average Debt: $0.00
 27  Society 1  Average Delinquency: 0
 27  Society 1  Default Rate: 0
@@ -306,7 +306,7 @@
 27  Society 1  Average Interest Rate: 0.005
 27  Society 1  Average Credit Score: 600
 27  Society 1  Credit Risk: 0.1
-28  Society 1  $10000000.00
+28  Society 1  $1000000.00
 28  Society 1  Average Debt: $0.00
 28  Society 1  Average Delinquency: 0
 28  Society 1  Default Rate: 0
@@ -317,7 +317,7 @@
 28  Society 1  Average Interest Rate: 0.005
 28  Society 1  Average Credit Score: 600
 28  Society 1  Credit Risk: 0.1
-29  Society 1  $10000000.00
+29  Society 1  $1000000.00
 29  Society 1  Average Debt: $0.00
 29  Society 1  Average Delinquency: 0
 29  Society 1  Default Rate: 0
@@ -328,1189 +328,1992 @@
 29  Society 1  Average Interest Rate: 0.005
 29  Society 1  Average Credit Score: 600
 29  Society 1  Credit Risk: 0.1
-30  Society 1  $10000000.00
+30  Society 1  $1000000.00
 30  Society 1  Average Debt: $0.00
 30  Society 1  Average Delinquency: 0
 30  Society 1  Default Rate: 0
 30  Society 1  Bankers: 0
 30  Society 1  Consumer Debt: 0.0
 30  Society 1  Faith in credit score: 0
-30  Society 1  Average Income: 98080.0
+30  Society 1  Average Income: 12325.0
 30  Society 1  Average Interest Rate: 0.005
 30  Society 1  Average Credit Score: 600
 30  Society 1  Credit Risk: 0.1
-31  Society 1  $10000000.00
-31  Society 1  Average Debt: $57872.44
+31  Society 1  $1000000.00
+31  Society 1  Average Debt: $5561.67
 31  Society 1  Average Delinquency: 0.0
 31  Society 1  Default Rate: 0
 31  Society 1  Bankers: 1
-31  Society 1  Consumer Debt: 57872.44363907625
+31  Society 1  Consumer Debt: 5561.670540057928
 31  Society 1  Faith in credit score: 0
-31  Society 1  Average Income: 98080.0
+31  Society 1  Average Income: 12325.0
 31  Society 1  Average Interest Rate: 0.01
 31  Society 1  Average Credit Score: 600.0
 31  Society 1  Credit Risk: 0.01
-32  Society 1  $10000000.00
-32  Society 1  Average Debt: $31787.21
+32  Society 1  $1000000.00
+32  Society 1  Average Debt: $555.89
 32  Society 1  Average Delinquency: 0.0
 32  Society 1  Default Rate: 0
 32  Society 1  Bankers: 1
-32  Society 1  Consumer Debt: 63574.418489818505
+32  Society 1  Consumer Debt: 555.8863576720996
 32  Society 1  Faith in credit score: 0
-32  Society 1  Average Income: 98080.0
+32  Society 1  Average Income: 12325.0
 32  Society 1  Average Interest Rate: 0.01
 32  Society 1  Average Credit Score: 600.1
 32  Society 1  Credit Risk: 0.01
-33  Society 1  $10000000.00
-33  Society 1  Average Debt: $45169.07
+33  Society 1  $1000000.00
+33  Society 1  Average Debt: $3087.00
 33  Society 1  Average Delinquency: 0.0
 33  Society 1  Default Rate: 0
 33  Society 1  Bankers: 1
-33  Society 1  Consumer Debt: 180676.29609070218
+33  Society 1  Consumer Debt: 6174.004828575396
 33  Society 1  Faith in credit score: 0
-33  Society 1  Average Income: 98080.0
+33  Society 1  Average Income: 12325.0
 33  Society 1  Average Interest Rate: 0.01
 33  Society 1  Average Credit Score: 600.2
 33  Society 1  Credit Risk: 0.01
-34  Society 1  $10000000.00
-34  Society 1  Average Debt: $58973.89
+34  Society 1  $1000000.00
+34  Society 1  Average Debt: $5674.29
 34  Society 1  Average Delinquency: 0.0
 34  Society 1  Default Rate: 0
 34  Society 1  Bankers: 1
-34  Society 1  Consumer Debt: 235895.55051412788
+34  Society 1  Consumer Debt: 11348.57687328313
 34  Society 1  Faith in credit score: 0
-34  Society 1  Average Income: 98080.0
+34  Society 1  Average Income: 12325.0
 34  Society 1  Average Interest Rate: 0.01
 34  Society 1  Average Credit Score: 600.2
 34  Society 1  Credit Risk: 0.01
-35  Society 1  $10000000.00
-35  Society 1  Average Debt: $32220.10
+35  Society 1  $1000000.00
+35  Society 1  Average Debt: $5731.31
 35  Society 1  Average Delinquency: 0.0
 35  Society 1  Default Rate: 0
 35  Society 1  Bankers: 1
-35  Society 1  Consumer Debt: 128880.40216656629
+35  Society 1  Consumer Debt: 11462.612866900798
 35  Society 1  Faith in credit score: 0
-35  Society 1  Average Income: 98080.0
+35  Society 1  Average Income: 12325.0
 35  Society 1  Average Interest Rate: 0.01
-35  Society 1  Average Credit Score: 600.4
+35  Society 1  Average Credit Score: 600.2
 35  Society 1  Credit Risk: 0.01
-36  Society 1  $10000000.00
-36  Society 1  Average Debt: $49426.97
+36  Society 1  $1000000.00
+36  Society 1  Average Debt: $5788.90
 36  Society 1  Average Delinquency: 0.0
 36  Society 1  Default Rate: 0
 36  Society 1  Bankers: 1
-36  Society 1  Consumer Debt: 296561.8448404462
+36  Society 1  Consumer Debt: 11577.794749380617
 36  Society 1  Faith in credit score: 0
-36  Society 1  Average Income: 98080.0
-36  Society 1  Average Interest Rate: 0.009999999999999998
-36  Society 1  Average Credit Score: 600.5
+36  Society 1  Average Income: 12325.0
+36  Society 1  Average Interest Rate: 0.01
+36  Society 1  Average Credit Score: 600.2
 36  Society 1  Credit Risk: 0.01
-37  Society 1  $10000000.00
-37  Society 1  Average Debt: $51082.52
+37  Society 1  $1000000.00
+37  Society 1  Average Debt: $5847.07
 37  Society 1  Average Delinquency: 0.0
 37  Society 1  Default Rate: 0
 37  Society 1  Bankers: 1
-37  Society 1  Consumer Debt: 357577.6366359084
-37  Society 1  Faith in credit score: 1.0
-37  Society 1  Average Income: 98080.0
-37  Society 1  Average Interest Rate: 0.009999999999999998
-37  Society 1  Average Credit Score: 600.6
+37  Society 1  Consumer Debt: 11694.134035168536
+37  Society 1  Faith in credit score: 0
+37  Society 1  Average Income: 12325.0
+37  Society 1  Average Interest Rate: 0.01
+37  Society 1  Average Credit Score: 600.2
 37  Society 1  Credit Risk: 0.01
-38  Society 1  $10000000.00
-38  Society 1  Average Debt: $45894.82
+38  Society 1  $1000000.00
+38  Society 1  Average Debt: $5905.82
 38  Society 1  Average Delinquency: 0.0
 38  Society 1  Default Rate: 0
 38  Society 1  Bankers: 1
-38  Society 1  Consumer Debt: 367158.5371817759
-38  Society 1  Faith in credit score: 1.0
-38  Society 1  Average Income: 98080.0
+38  Society 1  Consumer Debt: 11811.642354413223
+38  Society 1  Faith in credit score: 0
+38  Society 1  Average Income: 12325.0
 38  Society 1  Average Interest Rate: 0.01
-38  Society 1  Average Credit Score: 600.8
+38  Society 1  Average Credit Score: 600.2
 38  Society 1  Credit Risk: 0.01
-39  Society 1  $10000000.00
-39  Society 1  Average Debt: $51664.60
+39  Society 1  $1000000.00
+39  Society 1  Average Debt: $5965.17
 39  Society 1  Average Delinquency: 0.0
 39  Society 1  Default Rate: 0
 39  Society 1  Bankers: 1
-39  Society 1  Consumer Debt: 464981.3591631799
-39  Society 1  Faith in credit score: 1.0
-39  Society 1  Average Income: 98080.0
-39  Society 1  Average Interest Rate: 0.010000000000000002
-39  Society 1  Average Credit Score: 600.9
+39  Society 1  Consumer Debt: 11930.331454128718
+39  Society 1  Faith in credit score: 0
+39  Society 1  Average Income: 12325.0
+39  Society 1  Average Interest Rate: 0.01
+39  Society 1  Average Credit Score: 600.2
 39  Society 1  Credit Risk: 0.01
-40  Society 1  $10000000.00
-40  Society 1  Average Debt: $56936.02
+40  Society 1  $1000000.00
+40  Society 1  Average Debt: $6025.11
 40  Society 1  Average Delinquency: 0.0
 40  Society 1  Default Rate: 0
 40  Society 1  Bankers: 1
-40  Society 1  Consumer Debt: 512424.2196863217
-40  Society 1  Faith in credit score: 1.0
-40  Society 1  Average Income: 98080.0
-40  Society 1  Average Interest Rate: 0.010000000000000002
-40  Society 1  Average Credit Score: 600.9
+40  Society 1  Consumer Debt: 12050.213199368736
+40  Society 1  Faith in credit score: 0
+40  Society 1  Average Income: 12325.0
+40  Society 1  Average Interest Rate: 0.01
+40  Society 1  Average Credit Score: 600.2
 40  Society 1  Credit Risk: 0.01
-41  Society 1  $10000000.00
-41  Society 1  Average Debt: $57508.15
+41  Society 1  $1000000.00
+41  Society 1  Average Debt: $6085.65
 41  Society 1  Average Delinquency: 0.0
 41  Society 1  Default Rate: 0
 41  Society 1  Bankers: 1
-41  Society 1  Consumer Debt: 517573.30628089333
-41  Society 1  Faith in credit score: 1.0
-41  Society 1  Average Income: 98080.0
-41  Society 1  Average Interest Rate: 0.010000000000000002
-41  Society 1  Average Credit Score: 600.9
+41  Society 1  Consumer Debt: 12171.299574412802
+41  Society 1  Faith in credit score: 0
+41  Society 1  Average Income: 12325.0
+41  Society 1  Average Interest Rate: 0.01
+41  Society 1  Average Credit Score: 600.2
 41  Society 1  Credit Risk: 0.01
-42  Society 1  $10000000.00
-42  Society 1  Average Debt: $57884.05
+42  Society 1  $1000000.00
+42  Society 1  Average Debt: $6146.80
 42  Society 1  Average Delinquency: 0.0
 42  Society 1  Default Rate: 0
 42  Society 1  Bankers: 1
-42  Society 1  Consumer Debt: 578840.4802662779
-42  Society 1  Faith in credit score: 1.0
-42  Society 1  Average Income: 98080.0
-42  Society 1  Average Interest Rate: 0.010000000000000002
-42  Society 1  Average Credit Score: 600.9
+42  Society 1  Consumer Debt: 12293.602683964276
+42  Society 1  Faith in credit score: 0
+42  Society 1  Average Income: 12325.0
+42  Society 1  Average Interest Rate: 0.01
+42  Society 1  Average Credit Score: 600.2
 42  Society 1  Credit Risk: 0.01
-43  Society 1  $10000000.00
-43  Society 1  Average Debt: $53318.65
+43  Society 1  $1000000.00
+43  Society 1  Average Debt: $6208.57
 43  Society 1  Average Delinquency: 0.0
 43  Society 1  Default Rate: 0
 43  Society 1  Bankers: 1
-43  Society 1  Consumer Debt: 586505.147282345
-43  Society 1  Faith in credit score: 1.0
-43  Society 1  Average Income: 98080.0
-43  Society 1  Average Interest Rate: 0.010000000000000002
-43  Society 1  Average Credit Score: 601.0
+43  Society 1  Consumer Debt: 12417.134754360439
+43  Society 1  Faith in credit score: 0
+43  Society 1  Average Income: 12325.0
+43  Society 1  Average Interest Rate: 0.01
+43  Society 1  Average Credit Score: 600.2
 43  Society 1  Credit Risk: 0.01
-44  Society 1  $10000000.00
-44  Society 1  Average Debt: $51396.76
+44  Society 1  $1000000.00
+44  Society 1  Average Debt: $6270.95
 44  Society 1  Average Delinquency: 0.0
 44  Society 1  Default Rate: 0
 44  Society 1  Bankers: 1
-44  Society 1  Consumer Debt: 719554.5957964116
-44  Society 1  Faith in credit score: 1.0
-44  Society 1  Average Income: 98080.0
-44  Society 1  Average Interest Rate: 0.010000000000000004
-44  Society 1  Average Credit Score: 601.2
+44  Society 1  Consumer Debt: 12541.908134794732
+44  Society 1  Faith in credit score: 0
+44  Society 1  Average Income: 12325.0
+44  Society 1  Average Interest Rate: 0.01
+44  Society 1  Average Credit Score: 600.2
 44  Society 1  Credit Risk: 0.01
-45  Society 1  $10000000.00
-45  Society 1  Average Debt: $54733.99
+45  Society 1  $1000000.00
+45  Society 1  Average Debt: $6333.97
 45  Society 1  Average Delinquency: 0.0
 45  Society 1  Default Rate: 0
-45  Society 1  Bankers: 2
-45  Society 1  Consumer Debt: 875743.8873523836
-45  Society 1  Faith in credit score: 1.0
-45  Society 1  Average Income: 98080.0
-45  Society 1  Average Interest Rate: 0.010000000000000004
-45  Society 1  Average Credit Score: 601.3
+45  Society 1  Bankers: 1
+45  Society 1  Consumer Debt: 12667.93529855126
+45  Society 1  Faith in credit score: 0
+45  Society 1  Average Income: 12325.0
+45  Society 1  Average Interest Rate: 0.01
+45  Society 1  Average Credit Score: 600.2
 45  Society 1  Credit Risk: 0.01
-46  Society 1  $10000000.00
-46  Society 1  Average Debt: $52312.51
+46  Society 1  $1000000.00
+46  Society 1  Average Debt: $6397.61
 46  Society 1  Average Delinquency: 0.0
 46  Society 1  Default Rate: 0
-46  Society 1  Bankers: 2
-46  Society 1  Consumer Debt: 993937.6540968895
-46  Society 1  Faith in credit score: 1.0
-46  Society 1  Average Income: 98080.0
-46  Society 1  Average Interest Rate: 0.010000000000000004
-46  Society 1  Average Credit Score: 601.5
+46  Society 1  Bankers: 1
+46  Society 1  Consumer Debt: 12795.228844251735
+46  Society 1  Faith in credit score: 0
+46  Society 1  Average Income: 12325.0
+46  Society 1  Average Interest Rate: 0.01
+46  Society 1  Average Credit Score: 600.2
 46  Society 1  Credit Risk: 0.01
-47  Society 1  $10000000.00
-47  Society 1  Average Debt: $46463.60
+47  Society 1  $1000000.00
+47  Society 1  Average Debt: $6461.90
 47  Society 1  Average Delinquency: 0.0
 47  Society 1  Default Rate: 0
-47  Society 1  Bankers: 2
-47  Society 1  Consumer Debt: 1022199.2727763177
-47  Society 1  Faith in credit score: 1.0
-47  Society 1  Average Income: 98080.0
-47  Society 1  Average Interest Rate: 0.010000000000000005
-47  Society 1  Average Credit Score: 602.0
+47  Society 1  Bankers: 1
+47  Society 1  Consumer Debt: 12923.80149711491
+47  Society 1  Faith in credit score: 0
+47  Society 1  Average Income: 12325.0
+47  Society 1  Average Interest Rate: 0.01
+47  Society 1  Average Credit Score: 600.2
 47  Society 1  Credit Risk: 0.01
-48  Society 1  $10000000.00
-48  Society 1  Average Debt: $52817.98
+48  Society 1  $1000000.00
+48  Society 1  Average Debt: $6526.83
 48  Society 1  Average Delinquency: 0.0
 48  Society 1  Default Rate: 0
-48  Society 1  Bankers: 2
-48  Society 1  Consumer Debt: 1373267.5776904754
-48  Society 1  Faith in credit score: 1.0
-48  Society 1  Average Income: 98080.0
-48  Society 1  Average Interest Rate: 0.010000000000000005
-48  Society 1  Average Credit Score: 602.3
+48  Society 1  Bankers: 1
+48  Society 1  Consumer Debt: 13053.6661102287
+48  Society 1  Faith in credit score: 0
+48  Society 1  Average Income: 12325.0
+48  Society 1  Average Interest Rate: 0.01
+48  Society 1  Average Credit Score: 600.2
 48  Society 1  Credit Risk: 0.01
-49  Society 1  $10000000.00
-49  Society 1  Average Debt: $52571.48
+49  Society 1  $1000000.00
+49  Society 1  Average Debt: $6592.42
 49  Society 1  Average Delinquency: 0.0
 49  Society 1  Default Rate: 0
-49  Society 1  Bankers: 2
-49  Society 1  Consumer Debt: 1472001.4696729148
-49  Society 1  Faith in credit score: 1.0
-49  Society 1  Average Income: 98080.0
-49  Society 1  Average Interest Rate: 0.010000000000000005
-49  Society 1  Average Credit Score: 602.6
+49  Society 1  Bankers: 1
+49  Society 1  Consumer Debt: 13184.835665835064
+49  Society 1  Faith in credit score: 0
+49  Society 1  Average Income: 12325.0
+49  Society 1  Average Interest Rate: 0.01
+49  Society 1  Average Credit Score: 600.2
 49  Society 1  Credit Risk: 0.01
-50  Society 1  $10000000.00
-50  Society 1  Average Debt: $56326.23
+50  Society 1  $1000000.00
+50  Society 1  Average Debt: $6658.66
 50  Society 1  Average Delinquency: 0.0
 50  Society 1  Default Rate: 0
-50  Society 1  Bankers: 2
-50  Society 1  Consumer Debt: 1689786.8149007335
-50  Society 1  Faith in credit score: 1.0
-50  Society 1  Average Income: 98080.0
-50  Society 1  Average Interest Rate: 0.010000000000000005
-50  Society 1  Average Credit Score: 602.75
+50  Society 1  Bankers: 1
+50  Society 1  Consumer Debt: 13317.323276627816
+50  Society 1  Faith in credit score: 0
+50  Society 1  Average Income: 12325.0
+50  Society 1  Average Interest Rate: 0.01
+50  Society 1  Average Credit Score: 600.2
 50  Society 1  Credit Risk: 0.01
-51  Society 1  $10000000.00
-51  Society 1  Average Debt: $53865.24
+51  Society 1  $1000000.00
+51  Society 1  Average Debt: $6725.57
 51  Society 1  Average Delinquency: 0.0
 51  Society 1  Default Rate: 0
-51  Society 1  Bankers: 2
-51  Society 1  Consumer Debt: 1615957.3277881683
-51  Society 1  Faith in credit score: 1.0
-51  Society 1  Average Income: 98080.0
-51  Society 1  Average Interest Rate: 0.010000000000000005
-51  Society 1  Average Credit Score: 603.05
+51  Society 1  Bankers: 1
+51  Society 1  Consumer Debt: 13451.142187063466
+51  Society 1  Faith in credit score: 0
+51  Society 1  Average Income: 12325.0
+51  Society 1  Average Interest Rate: 0.01
+51  Society 1  Average Credit Score: 600.2
 51  Society 1  Credit Risk: 0.01
-52  Society 1  $10000000.00
-52  Society 1  Average Debt: $56074.52
+52  Society 1  $1000000.00
+52  Society 1  Average Debt: $6793.15
 52  Society 1  Average Delinquency: 0.0
 52  Society 1  Default Rate: 0
-52  Society 1  Bankers: 2
-52  Society 1  Consumer Debt: 1906533.755586246
-52  Society 1  Faith in credit score: 1.0
-52  Society 1  Average Income: 98080.0
-52  Society 1  Average Interest Rate: 0.010000000000000005
-52  Society 1  Average Credit Score: 603.25
+52  Society 1  Bankers: 1
+52  Society 1  Consumer Debt: 13586.305774685228
+52  Society 1  Faith in credit score: 0
+52  Society 1  Average Income: 12325.0
+52  Society 1  Average Interest Rate: 0.01
+52  Society 1  Average Credit Score: 600.2
 52  Society 1  Credit Risk: 0.01
-53  Society 1  $10000000.00
-53  Society 1  Average Debt: $56205.42
+53  Society 1  $1000000.00
+53  Society 1  Average Debt: $6861.41
 53  Society 1  Average Delinquency: 0.0
 53  Society 1  Default Rate: 0
-53  Society 1  Bankers: 2
-53  Society 1  Consumer Debt: 1910984.2011637664
-53  Society 1  Faith in credit score: 1.0
-53  Society 1  Average Income: 98080.0
-53  Society 1  Average Interest Rate: 0.010000000000000005
-53  Society 1  Average Credit Score: 603.45
+53  Society 1  Bankers: 1
+53  Society 1  Consumer Debt: 13722.827551460352
+53  Society 1  Faith in credit score: 0
+53  Society 1  Average Income: 12325.0
+53  Society 1  Average Interest Rate: 0.01
+53  Society 1  Average Credit Score: 600.2
 53  Society 1  Credit Risk: 0.01
-54  Society 1  $10000000.00
-54  Society 1  Average Debt: $59664.18
+54  Society 1  $1000000.00
+54  Society 1  Average Debt: $6930.36
 54  Society 1  Average Delinquency: 0.0
 54  Society 1  Default Rate: 0
-54  Society 1  Bankers: 2
-54  Society 1  Consumer Debt: 2088246.4442873497
-54  Society 1  Faith in credit score: 1.0
-54  Society 1  Average Income: 98080.0
-54  Society 1  Average Interest Rate: 0.010000000000000005
-54  Society 1  Average Credit Score: 603.45
+54  Society 1  Bankers: 1
+54  Society 1  Consumer Debt: 13860.721165130872
+54  Society 1  Faith in credit score: 0
+54  Society 1  Average Income: 12325.0
+54  Society 1  Average Interest Rate: 0.01
+54  Society 1  Average Credit Score: 600.2
 54  Society 1  Credit Risk: 0.01
-55  Society 1  $10000000.00
-55  Society 1  Average Debt: $58980.66
+55  Society 1  $1000000.00
+55  Society 1  Average Debt: $7000.00
 55  Society 1  Average Delinquency: 0.0
 55  Society 1  Default Rate: 0
-55  Society 1  Bankers: 2
-55  Society 1  Consumer Debt: 2182284.2832899773
-55  Society 1  Faith in credit score: 1.0
-55  Society 1  Average Income: 98080.0
-55  Society 1  Average Interest Rate: 0.010000000000000005
-55  Society 1  Average Credit Score: 603.55
+55  Society 1  Bankers: 1
+55  Society 1  Consumer Debt: 14000.00040057794
+55  Society 1  Faith in credit score: 0
+55  Society 1  Average Income: 12325.0
+55  Society 1  Average Interest Rate: 0.01
+55  Society 1  Average Credit Score: 600.2
 55  Society 1  Credit Risk: 0.01
-56  Society 1  $10000000.00
-56  Society 1  Average Debt: $56489.47
+56  Society 1  $1000000.00
+56  Society 1  Average Debt: $7070.34
 56  Society 1  Average Delinquency: 0.0
 56  Society 1  Default Rate: 0
-56  Society 1  Bankers: 2
-56  Society 1  Consumer Debt: 2146599.800103911
-56  Society 1  Faith in credit score: 1.0
-56  Society 1  Average Income: 98080.0
-56  Society 1  Average Interest Rate: 0.010000000000000005
-56  Society 1  Average Credit Score: 603.85
+56  Society 1  Bankers: 1
+56  Society 1  Consumer Debt: 14140.679181199865
+56  Society 1  Faith in credit score: 0
+56  Society 1  Average Income: 12325.0
+56  Society 1  Average Interest Rate: 0.01
+56  Society 1  Average Credit Score: 600.2
 56  Society 1  Credit Risk: 0.01
-57  Society 1  $10000000.00
-57  Society 1  Average Debt: $59417.17
+57  Society 1  $1000000.00
+57  Society 1  Average Debt: $7141.39
 57  Society 1  Average Delinquency: 0.0
 57  Society 1  Default Rate: 0
-57  Society 1  Bankers: 2
-57  Society 1  Consumer Debt: 2376686.697732568
-57  Society 1  Faith in credit score: 1.0
-57  Society 1  Average Income: 98080.0
-57  Society 1  Average Interest Rate: 0.010000000000000005
-57  Society 1  Average Credit Score: 603.95
+57  Society 1  Bankers: 1
+57  Society 1  Consumer Debt: 14282.771570304005
+57  Society 1  Faith in credit score: 0
+57  Society 1  Average Income: 12325.0
+57  Society 1  Average Interest Rate: 0.01
+57  Society 1  Average Credit Score: 600.2
 57  Society 1  Credit Risk: 0.01
-58  Society 1  $10000000.00
-58  Society 1  Average Debt: $60047.84
+58  Society 1  $1000000.00
+58  Society 1  Average Debt: $7213.15
 58  Society 1  Average Delinquency: 0.0
 58  Society 1  Default Rate: 0
-58  Society 1  Bankers: 2
-58  Society 1  Consumer Debt: 2401913.4040790903
-58  Society 1  Faith in credit score: 1.0
-58  Society 1  Average Income: 98080.0
-58  Society 1  Average Interest Rate: 0.010000000000000005
-58  Society 1  Average Credit Score: 604.1
+58  Society 1  Bankers: 1
+58  Society 1  Consumer Debt: 14426.291772512637
+58  Society 1  Faith in credit score: 0
+58  Society 1  Average Income: 12325.0
+58  Society 1  Average Interest Rate: 0.01
+58  Society 1  Average Credit Score: 600.2
 58  Society 1  Credit Risk: 0.01
-59  Society 1  $10000000.00
-59  Society 1  Average Debt: $60432.60
+59  Society 1  $1000000.00
+59  Society 1  Average Debt: $7285.63
 59  Society 1  Average Delinquency: 0.0
 59  Society 1  Default Rate: 0
-59  Society 1  Bankers: 2
-59  Society 1  Consumer Debt: 2477736.6866750726
-59  Society 1  Faith in credit score: 1.0
-59  Society 1  Average Income: 98080.0
-59  Society 1  Average Interest Rate: 0.010000000000000005
-59  Society 1  Average Credit Score: 604.25
+59  Society 1  Bankers: 1
+59  Society 1  Consumer Debt: 14571.254135182955
+59  Society 1  Faith in credit score: 0
+59  Society 1  Average Income: 12325.0
+59  Society 1  Average Interest Rate: 0.01
+59  Society 1  Average Credit Score: 600.2
 59  Society 1  Credit Risk: 0.01
-60  Society 1  $10000000.00
-60  Society 1  Average Debt: $61996.90
+60  Society 1  $1000000.00
+60  Society 1  Average Debt: $7358.84
 60  Society 1  Average Delinquency: 0.0
 60  Society 1  Default Rate: 0
-60  Society 1  Bankers: 2
-60  Society 1  Consumer Debt: 2603869.773283537
-60  Society 1  Faith in credit score: 1.0
-60  Society 1  Average Income: 118596.58235131232
-60  Society 1  Average Interest Rate: 0.010000000000000005
-60  Society 1  Average Credit Score: 604.25
+60  Society 1  Bankers: 1
+60  Society 1  Consumer Debt: 14717.67314984135
+60  Society 1  Faith in credit score: 0
+60  Society 1  Average Income: 12038.733410801162
+60  Society 1  Average Interest Rate: 0.01
+60  Society 1  Average Credit Score: 600.2
 60  Society 1  Credit Risk: 0.01
-61  Society 1  $10000000.00
-61  Society 1  Average Debt: $62619.87
+61  Society 1  $1000000.00
+61  Society 1  Average Debt: $7432.78
 61  Society 1  Average Delinquency: 0.0
 61  Society 1  Default Rate: 0
-61  Society 1  Bankers: 2
-61  Society 1  Consumer Debt: 2630034.717149448
-61  Society 1  Faith in credit score: 1.0
-61  Society 1  Average Income: 118596.58235131232
-61  Society 1  Average Interest Rate: 0.010000000000000005
-61  Society 1  Average Credit Score: 604.25
+61  Society 1  Bankers: 1
+61  Society 1  Consumer Debt: 14865.563453632074
+61  Society 1  Faith in credit score: 0
+61  Society 1  Average Income: 12038.733410801162
+61  Society 1  Average Interest Rate: 0.01
+61  Society 1  Average Credit Score: 600.2
 61  Society 1  Credit Risk: 0.01
-62  Society 1  $10000000.00
-62  Society 1  Average Debt: $63169.74
+62  Society 1  $1000000.00
+62  Society 1  Average Debt: $7507.47
 62  Society 1  Average Delinquency: 0.0
 62  Society 1  Default Rate: 0
-62  Society 1  Bankers: 2
-62  Society 1  Consumer Debt: 2653129.245702936
-62  Society 1  Faith in credit score: 1.0
-62  Society 1  Average Income: 118596.58235131232
-62  Society 1  Average Interest Rate: 0.010000000000000005
-62  Society 1  Average Credit Score: 604.3
+62  Society 1  Bankers: 1
+62  Society 1  Consumer Debt: 15014.939830780499
+62  Society 1  Faith in credit score: 0
+62  Society 1  Average Income: 12038.733410801162
+62  Society 1  Average Interest Rate: 0.01
+62  Society 1  Average Credit Score: 600.2
 62  Society 1  Credit Risk: 0.01
-63  Society 1  $10000000.00
-63  Society 1  Average Debt: $62704.95
+63  Society 1  $1000000.00
+63  Society 1  Average Debt: $7582.91
 63  Society 1  Average Delinquency: 0.0
 63  Society 1  Default Rate: 0
-63  Society 1  Bankers: 2
-63  Society 1  Consumer Debt: 2633608.105904283
-63  Society 1  Faith in credit score: 1.0
-63  Society 1  Average Income: 118596.58235131232
-63  Society 1  Average Interest Rate: 0.010000000000000005
-63  Society 1  Average Credit Score: 604.4
+63  Society 1  Bankers: 1
+63  Society 1  Consumer Debt: 15165.817214071043
+63  Society 1  Faith in credit score: 0
+63  Society 1  Average Income: 12038.733410801162
+63  Society 1  Average Interest Rate: 0.01
+63  Society 1  Average Credit Score: 600.2
 63  Society 1  Credit Risk: 0.01
-64  Society 1  $10000000.00
-64  Society 1  Average Debt: $62453.09
+64  Society 1  $1000000.00
+64  Society 1  Average Debt: $7659.11
 64  Society 1  Average Delinquency: 0.0
 64  Society 1  Default Rate: 0
-64  Society 1  Bankers: 2
-64  Society 1  Consumer Debt: 2872842.146775094
-64  Society 1  Faith in credit score: 1.0
-64  Society 1  Average Income: 118596.58235131232
-64  Society 1  Average Interest Rate: 0.010000000000000007
-64  Society 1  Average Credit Score: 604.5
+64  Society 1  Bankers: 1
+64  Society 1  Consumer Debt: 15318.210686339975
+64  Society 1  Faith in credit score: 0
+64  Society 1  Average Income: 12038.733410801162
+64  Society 1  Average Interest Rate: 0.01
+64  Society 1  Average Credit Score: 600.2
 64  Society 1  Credit Risk: 0.01
-65  Society 1  $10000000.00
-65  Society 1  Average Debt: $62798.11
+65  Society 1  $1000000.00
+65  Society 1  Average Debt: $7736.07
 65  Society 1  Average Delinquency: 0.0
 65  Society 1  Default Rate: 0
-65  Society 1  Bankers: 2
-65  Society 1  Consumer Debt: 2951511.250678661
-65  Society 1  Faith in credit score: 1.0
-65  Society 1  Average Income: 118596.58235131232
-65  Society 1  Average Interest Rate: 0.010000000000000007
-65  Society 1  Average Credit Score: 604.65
+65  Society 1  Bankers: 1
+65  Society 1  Consumer Debt: 15472.135481983203
+65  Society 1  Faith in credit score: 0
+65  Society 1  Average Income: 12038.733410801162
+65  Society 1  Average Interest Rate: 0.01
+65  Society 1  Average Credit Score: 600.2
 65  Society 1  Credit Risk: 0.01
-66  Society 1  $10000000.00
-66  Society 1  Average Debt: $62415.27
-66  Society 1  Average Delinquency: 0.02127659574468085
+66  Society 1  $1000000.00
+66  Society 1  Average Debt: $7813.80
+66  Society 1  Average Delinquency: 0.0
 66  Society 1  Default Rate: 0
-66  Society 1  Bankers: 2
-66  Society 1  Consumer Debt: 2933517.817325676
-66  Society 1  Faith in credit score: 1.0
-66  Society 1  Average Income: 118596.58235131232
-66  Society 1  Average Interest Rate: 0.010000000000000007
-66  Society 1  Average Credit Score: 604.85
+66  Society 1  Bankers: 1
+66  Society 1  Consumer Debt: 15627.606988479216
+66  Society 1  Faith in credit score: 0
+66  Society 1  Average Income: 12038.733410801162
+66  Society 1  Average Interest Rate: 0.01
+66  Society 1  Average Credit Score: 600.2
 66  Society 1  Credit Risk: 0.01
-67  Society 1  $10000000.00
-67  Society 1  Average Debt: $61174.82
-67  Society 1  Average Delinquency: 0.04
+67  Society 1  $1000000.00
+67  Society 1  Average Debt: $7892.32
+67  Society 1  Average Delinquency: 0.0
 67  Society 1  Default Rate: 0
-67  Society 1  Bankers: 2
-67  Society 1  Consumer Debt: 3058740.9776333678
-67  Society 1  Faith in credit score: 1.0
-67  Society 1  Average Income: 118596.58235131232
-67  Society 1  Average Interest Rate: 0.010000000000000007
-67  Society 1  Average Credit Score: 605.1
+67  Society 1  Bankers: 1
+67  Society 1  Consumer Debt: 15784.640747927337
+67  Society 1  Faith in credit score: 0
+67  Society 1  Average Income: 12038.733410801162
+67  Society 1  Average Interest Rate: 0.01
+67  Society 1  Average Credit Score: 600.2
 67  Society 1  Credit Risk: 0.01
-68  Society 1  $10000000.00
-68  Society 1  Average Debt: $63943.82
-68  Society 1  Average Delinquency: 0.08
+68  Society 1  $1000000.00
+68  Society 1  Average Debt: $7971.63
+68  Society 1  Average Delinquency: 0.0
 68  Society 1  Default Rate: 0
-68  Society 1  Bankers: 2
-68  Society 1  Consumer Debt: 3197191.1729002325
-68  Society 1  Faith in credit score: 1.0
-68  Society 1  Average Income: 118596.58235131232
-68  Society 1  Average Interest Rate: 0.010000000000000007
-68  Society 1  Average Credit Score: 605.0
+68  Society 1  Bankers: 1
+68  Society 1  Consumer Debt: 15943.252458601424
+68  Society 1  Faith in credit score: 0
+68  Society 1  Average Income: 12038.733410801162
+68  Society 1  Average Interest Rate: 0.01
+68  Society 1  Average Credit Score: 600.2
 68  Society 1  Credit Risk: 0.01
-69  Society 1  $10000000.00
-69  Society 1  Average Debt: $65325.48
-69  Society 1  Average Delinquency: 0.0784313725490196
+69  Society 1  $1000000.00
+69  Society 1  Average Debt: $8051.73
+69  Society 1  Average Delinquency: 1.0
 69  Society 1  Default Rate: 0
-69  Society 1  Bankers: 2
-69  Society 1  Consumer Debt: 3331599.5188878365
-69  Society 1  Faith in credit score: 1.0
-69  Society 1  Average Income: 118596.58235131232
-69  Society 1  Average Interest Rate: 0.010000000000000007
-69  Society 1  Average Credit Score: 605.0
+69  Society 1  Bankers: 1
+69  Society 1  Consumer Debt: 16103.457976519192
+69  Society 1  Faith in credit score: 0
+69  Society 1  Average Income: 12038.733410801162
+69  Society 1  Average Interest Rate: 0.01
+69  Society 1  Average Credit Score: 599.9
 69  Society 1  Credit Risk: 0.01
-70  Society 1  $10000000.00
-70  Society 1  Average Debt: $65949.22
-70  Society 1  Average Delinquency: 0.11764705882352941
+70  Society 1  $1000000.00
+70  Society 1  Average Debt: $8132.64
+70  Society 1  Average Delinquency: 1.0
 70  Society 1  Default Rate: 0
-70  Society 1  Bankers: 2
-70  Society 1  Consumer Debt: 3363410.376823125
-70  Society 1  Faith in credit score: 1.0
-70  Society 1  Average Income: 118596.58235131232
-70  Society 1  Average Interest Rate: 0.010000000000000007
-70  Society 1  Average Credit Score: 604.75
+70  Society 1  Bankers: 1
+70  Society 1  Consumer Debt: 16265.273317027299
+70  Society 1  Faith in credit score: 0
+70  Society 1  Average Income: 12038.733410801162
+70  Society 1  Average Interest Rate: 0.01
+70  Society 1  Average Credit Score: 599.9
 70  Society 1  Credit Risk: 0.01
-71  Society 1  $10000000.00
-71  Society 1  Average Debt: $65655.37
-71  Society 1  Average Delinquency: 0.11764705882352941
+71  Society 1  $1000000.00
+71  Society 1  Average Debt: $8214.36
+71  Society 1  Average Delinquency: 1.0
 71  Society 1  Default Rate: 0
-71  Society 1  Bankers: 2
-71  Society 1  Consumer Debt: 3348423.8486315086
-71  Society 1  Faith in credit score: 1.0
-71  Society 1  Average Income: 118596.58235131232
-71  Society 1  Average Interest Rate: 0.010000000000000007
-71  Society 1  Average Credit Score: 604.85
+71  Society 1  Bankers: 1
+71  Society 1  Consumer Debt: 16428.71465640235
+71  Society 1  Faith in credit score: 0
+71  Society 1  Average Income: 12038.733410801162
+71  Society 1  Average Interest Rate: 0.01
+71  Society 1  Average Credit Score: 599.9
 71  Society 1  Credit Risk: 0.01
-72  Society 1  $10000000.00
-72  Society 1  Average Debt: $66990.61
-72  Society 1  Average Delinquency: 0.11538461538461539
-72  Society 1  Default Rate: 0.024833978455603086
-72  Society 1  Bankers: 2
-72  Society 1  Consumer Debt: 3483511.78593461
-72  Society 1  Faith in credit score: 0.9083860890910938
-72  Society 1  Average Income: 118596.58235131232
-72  Society 1  Average Interest Rate: 0.010000000000000007
-72  Society 1  Average Credit Score: 603.75
-72  Society 1  Credit Risk: 0.019230769230769232
-73  Society 1  $10000000.00
-73  Society 1  Average Debt: $66493.43
-73  Society 1  Average Delinquency: 0.16666666666666666
-73  Society 1  Default Rate: 0.024335111425238382
-73  Society 1  Bankers: 2
-73  Society 1  Consumer Debt: 3590644.974229211
-73  Society 1  Faith in credit score: 0.9083860890910938
-73  Society 1  Average Income: 118596.58235131232
-73  Society 1  Average Interest Rate: 0.010000000000000007
-73  Society 1  Average Credit Score: 603.4
-73  Society 1  Credit Risk: 0.018518518518518517
-74  Society 1  $10000000.00
-74  Society 1  Average Debt: $66729.32
-74  Society 1  Average Delinquency: 0.18181818181818182
-74  Society 1  Default Rate: 0.024014930946845137
-74  Society 1  Bankers: 2
-74  Society 1  Consumer Debt: 3670112.77631373
-74  Society 1  Faith in credit score: 0.8847737566912204
-74  Society 1  Average Income: 118596.58235131232
-74  Society 1  Average Interest Rate: 0.010000000000000007
-74  Society 1  Average Credit Score: 601.1
-74  Society 1  Credit Risk: 0.05454545454545454
-75  Society 1  $10000000.00
-75  Society 1  Average Debt: $65321.03
-75  Society 1  Average Delinquency: 0.22807017543859648
-75  Society 1  Default Rate: 0.022979984671111196
-75  Society 1  Bankers: 2
-75  Society 1  Consumer Debt: 3723298.749790578
-75  Society 1  Faith in credit score: 0.9857106967796355
-75  Society 1  Average Income: 118596.58235131232
-75  Society 1  Average Interest Rate: 0.010000000000000007
-75  Society 1  Average Credit Score: 599.85
-75  Society 1  Credit Risk: 0.07017543859649122
-76  Society 1  Bill decided not to take a loan at 11%
-76  Society 1  Bill decided not to take a loan at 11%
-76  Society 1  $10000000.00
-76  Society 1  Average Debt: $67915.87
-76  Society 1  Average Delinquency: 0.2631578947368421
-76  Society 1  Default Rate: 0.02232408790620248
-76  Society 1  Bankers: 2
-76  Society 1  Consumer Debt: 3871204.5213797195
-76  Society 1  Faith in credit score: 0.984051763237836
-76  Society 1  Average Income: 118596.58235131232
-76  Society 1  Average Interest Rate: 0.010000000000000007
-76  Society 1  Average Credit Score: 599.66
-76  Society 1  Credit Risk: 0.07017543859649122
-77  Society 1  Bill decided not to take a loan at 11%
-77  Society 1  Bill decided not to take a loan at 11%
-77  Society 1  $10000000.00
-77  Society 1  Average Debt: $69507.02
-77  Society 1  Average Delinquency: 0.2807017543859649
-77  Society 1  Default Rate: 0.02203223449258855
-77  Society 1  Bankers: 2
-77  Society 1  Consumer Debt: 3961900.06114437
-77  Society 1  Faith in credit score: 0.9859204963155754
-77  Society 1  Average Income: 118596.58235131232
-77  Society 1  Average Interest Rate: 0.010000000000000007
-77  Society 1  Average Credit Score: 599.61
-77  Society 1  Credit Risk: 0.07017543859649122
-78  Society 1  Bill decided not to take a loan at 11%
-78  Society 1  $10000000.00
-78  Society 1  Average Debt: $70206.05
-78  Society 1  Average Delinquency: 0.3333333333333333
-78  Society 1  Default Rate: 0.02203205008089121
-78  Society 1  Bankers: 2
-78  Society 1  Consumer Debt: 4001744.6456340575
-78  Society 1  Faith in credit score: 0.9879584378513697
-78  Society 1  Average Income: 118596.58235131232
-78  Society 1  Average Interest Rate: 0.010000000000000007
-78  Society 1  Average Credit Score: 597.87
-78  Society 1  Credit Risk: 0.07017543859649122
-79  Society 1  Bill decided not to take a loan at 11%
-79  Society 1  Bill decided not to take a loan at 11%
-79  Society 1  $10000000.00
-79  Society 1  Average Debt: $70970.58
-79  Society 1  Average Delinquency: 0.3684210526315789
-79  Society 1  Default Rate: 0.022141588581238245
-79  Society 1  Bankers: 2
-79  Society 1  Consumer Debt: 4045322.9411285045
-79  Society 1  Faith in credit score: 0.9833620196983321
-79  Society 1  Average Income: 118596.58235131232
-79  Society 1  Average Interest Rate: 0.010000000000000007
-79  Society 1  Average Credit Score: 593.67
-79  Society 1  Credit Risk: 0.10526315789473684
-80  Society 1  $10000000.00
-80  Society 1  Average Debt: $71596.01
-80  Society 1  Average Delinquency: 0.42105263157894735
-80  Society 1  Default Rate: 0.02216871641614016
-80  Society 1  Bankers: 2
-80  Society 1  Consumer Debt: 4080972.304149689
-80  Society 1  Faith in credit score: 0.9839560564512215
-80  Society 1  Average Income: 118596.58235131232
-80  Society 1  Average Interest Rate: 0.010000000000000007
-80  Society 1  Average Credit Score: 590.68
-80  Society 1  Credit Risk: 0.10526315789473684
-81  Society 1  Bill decided not to take a loan at 16%
-81  Society 1  Bill decided not to take a loan at 17%
-81  Society 1  Bill decided not to take a loan at 11%
-81  Society 1  Bill decided not to take a loan at 16%
-81  Society 1  Bill decided not to take a loan at 16%
-81  Society 1  $10000000.00
-81  Society 1  Average Debt: $71950.82
-81  Society 1  Average Delinquency: 0.43859649122807015
-81  Society 1  Default Rate: 0.02090084101056728
-81  Society 1  Bankers: 2
-81  Society 1  Consumer Debt: 4101196.7983132065
-81  Society 1  Faith in credit score: 0.8731944088160242
-81  Society 1  Average Income: 118596.58235131232
-81  Society 1  Average Interest Rate: 0.010000000000000007
-81  Society 1  Average Credit Score: 588.24
-81  Society 1  Credit Risk: 0.14035087719298245
-82  Society 1  Bill decided not to take a loan at 21%
-82  Society 1  Bill decided not to take a loan at 14%
-82  Society 1  Bill decided not to take a loan at 21%
-82  Society 1  $10000000.00
-82  Society 1  Average Debt: $72956.15
-82  Society 1  Average Delinquency: 0.45614035087719296
-82  Society 1  Default Rate: 0.02081995715766865
-82  Society 1  Bankers: 2
-82  Society 1  Consumer Debt: 4158500.5280678137
-82  Society 1  Faith in credit score: 0.7633170058088604
-82  Society 1  Average Income: 118596.58235131232
-82  Society 1  Average Interest Rate: 0.010000000000000007
-82  Society 1  Average Credit Score: 587.49
-82  Society 1  Credit Risk: 0.14035087719298245
-83  Society 1  Bill decided not to take a loan at 21%
-83  Society 1  Bill decided not to take a loan at 23%
-83  Society 1  Bill decided not to take a loan at 14%
-83  Society 1  Bill decided not to take a loan at 21%
-83  Society 1  Bill decided not to take a loan at 21%
-83  Society 1  Bill decided not to take a loan at 21%
-83  Society 1  $10000000.00
-83  Society 1  Average Debt: $73822.59
-83  Society 1  Average Delinquency: 0.543859649122807
-83  Society 1  Default Rate: 0.019882121967221594
-83  Society 1  Bankers: 2
-83  Society 1  Consumer Debt: 4207887.639105772
-83  Society 1  Faith in credit score: 0.7998273873528464
-83  Society 1  Average Income: 118596.58235131232
-83  Society 1  Average Interest Rate: 0.010000000000000007
-83  Society 1  Average Credit Score: 579.74
-83  Society 1  Credit Risk: 0.22807017543859648
-84  Society 1  Bill decided not to take a loan at 31%
-84  Society 1  Bill decided not to take a loan at 32%
-84  Society 1  Bill decided not to take a loan at 22%
-84  Society 1  $10000000.00
-84  Society 1  Average Debt: $74404.02
-84  Society 1  Average Delinquency: 0.5789473684210527
-84  Society 1  Default Rate: 0.019717348996169382
-84  Society 1  Bankers: 2
-84  Society 1  Consumer Debt: 4241028.985443919
-84  Society 1  Faith in credit score: 0.9216349915385544
-84  Society 1  Average Income: 118596.58235131232
-84  Society 1  Average Interest Rate: 0.010000000000000007
-84  Society 1  Average Credit Score: 569.79
-84  Society 1  Credit Risk: 0.3157894736842105
-85  Society 1  Bill decided not to take a loan at 45%
-85  Society 1  Bill decided not to take a loan at 42%
-85  Society 1  Bill decided not to take a loan at 28%
-85  Society 1  Bill decided not to take a loan at 40%
-85  Society 1  $10000000.00
-85  Society 1  Average Debt: $75270.68
-85  Society 1  Average Delinquency: 0.5789473684210527
-85  Society 1  Default Rate: 0.019686172507734922
-85  Society 1  Bankers: 2
-85  Society 1  Consumer Debt: 4290428.796508952
-85  Society 1  Faith in credit score: 0.9137852607995638
-85  Society 1  Average Income: 118596.58235131232
-85  Society 1  Average Interest Rate: 0.010000000000000007
-85  Society 1  Average Credit Score: 567.54
-85  Society 1  Credit Risk: 0.3157894736842105
-86  Society 1  Bill decided not to take a loan at 40%
-86  Society 1  Bill decided not to take a loan at 42%
-86  Society 1  Bill decided not to take a loan at 42%
-86  Society 1  $10000000.00
-86  Society 1  Average Debt: $76071.78
-86  Society 1  Average Delinquency: 0.5964912280701754
-86  Society 1  Default Rate: 0.019646955556898733
-86  Society 1  Bankers: 2
-86  Society 1  Consumer Debt: 4336091.344226899
-86  Society 1  Faith in credit score: 0.9216680300554763
-86  Society 1  Average Income: 118596.58235131232
-86  Society 1  Average Interest Rate: 0.010000000000000007
-86  Society 1  Average Credit Score: 565.99
-86  Society 1  Credit Risk: 0.33333333333333326
-87  Society 1  Bill decided not to take a loan at 46%
-87  Society 1  Bill decided not to take a loan at 43%
-87  Society 1  Bill decided not to take a loan at 46%
-87  Society 1  Bill decided not to take a loan at 29%
-87  Society 1  Bill decided not to take a loan at 40%
-87  Society 1  $10000000.00
-87  Society 1  Average Debt: $76880.48
-87  Society 1  Average Delinquency: 0.6140350877192983
-87  Society 1  Default Rate: 0.019299867011541513
-87  Society 1  Bankers: 2
-87  Society 1  Consumer Debt: 4382187.610116823
-87  Society 1  Faith in credit score: 0.9359141262020073
-87  Society 1  Average Income: 118596.58235131232
-87  Society 1  Average Interest Rate: 0.010000000000000007
-87  Society 1  Average Credit Score: 561.94
-87  Society 1  Credit Risk: 0.3684210526315789
-88  Society 1  Bill decided not to take a loan at 43%
-88  Society 1  Bill decided not to take a loan at 31%
-88  Society 1  Bill decided not to take a loan at 45%
-88  Society 1  $10000000.00
-88  Society 1  Average Debt: $77653.02
-88  Society 1  Average Delinquency: 0.6140350877192983
-88  Society 1  Default Rate: 0.01929986701154152
-88  Society 1  Bankers: 2
-88  Society 1  Consumer Debt: 4426221.952388862
-88  Society 1  Faith in credit score: 0.9302910182883608
-88  Society 1  Average Income: 118596.58235131232
-88  Society 1  Average Interest Rate: 0.010000000000000007
-88  Society 1  Average Credit Score: 559.34
-88  Society 1  Credit Risk: 0.3684210526315789
-89  Society 1  Bill decided not to take a loan at 49%
-89  Society 1  Bill decided not to take a loan at 46%
-89  Society 1  Bill decided not to take a loan at 45%
-89  Society 1  Bill decided not to take a loan at 46%
-89  Society 1  Bill decided not to take a loan at 46%
-89  Society 1  Bill decided not to take a loan at 43%
-89  Society 1  Bill decided not to take a loan at 45%
-89  Society 1  $10000000.00
-89  Society 1  Average Debt: $78345.59
-89  Society 1  Average Delinquency: 0.631578947368421
-89  Society 1  Default Rate: 0.019263420334998907
-89  Society 1  Bankers: 2
-89  Society 1  Consumer Debt: 4465698.773046547
-89  Society 1  Faith in credit score: 0.9314007271037144
-89  Society 1  Average Income: 118596.58235131232
-89  Society 1  Average Interest Rate: 0.010000000000000007
-89  Society 1  Average Credit Score: 556.9
-89  Society 1  Credit Risk: 0.38596491228070173
-90  Society 1  Bill decided not to take a loan at 48%
-90  Society 1  Bill decided not to take a loan at 46%
-90  Society 1  Bill decided not to take a loan at 51%
-90  Society 1  Bill decided not to take a loan at 48%
-90  Society 1  Bill decided not to take a loan at 48%
-90  Society 1  Bill decided not to take a loan at 48%
-90  Society 1  Bill decided not to take a loan at 46%
-90  Society 1  $10000000.00
-90  Society 1  Average Debt: $79002.15
-90  Society 1  Average Delinquency: 0.6666666666666666
-90  Society 1  Default Rate: 0.0190051936683856
-90  Society 1  Bankers: 2
-90  Society 1  Consumer Debt: 4503122.518326878
-90  Society 1  Faith in credit score: 0.9551616821241318
-90  Society 1  Average Income: 103910.00060987916
-90  Society 1  Average Interest Rate: 0.010000000000000007
-90  Society 1  Average Credit Score: 545.26
-90  Society 1  Credit Risk: 0.47368421052631576
-91  Society 1  Bill decided not to take a loan at 56%
-91  Society 1  Bill decided not to take a loan at 49%
-91  Society 1  Bill decided not to take a loan at 46%
-91  Society 1  Bill decided not to take a loan at 53%
-91  Society 1  Bill decided not to take a loan at 49%
-91  Society 1  Bill decided not to take a loan at 46%
-91  Society 1  Bill decided not to take a loan at 53%
-91  Society 1  Bill decided not to take a loan at 46%
-91  Society 1  $10000000.00
-91  Society 1  Average Debt: $79768.97
-91  Society 1  Average Delinquency: 0.6666666666666666
-91  Society 1  Default Rate: 0.01896411863684403
-91  Society 1  Bankers: 2
-91  Society 1  Consumer Debt: 4546831.012478128
-91  Society 1  Faith in credit score: 0.9606427448576653
-91  Society 1  Average Income: 103910.00060987916
-91  Society 1  Average Interest Rate: 0.010000000000000007
-91  Society 1  Average Credit Score: 538.38
-91  Society 1  Credit Risk: 0.47368421052631576
-92  Society 1  Bill decided not to take a loan at 53%
-92  Society 1  Bill decided not to take a loan at 49%
-92  Society 1  Bill decided not to take a loan at 56%
-92  Society 1  Bill decided not to take a loan at 53%
-92  Society 1  Bill decided not to take a loan at 32%
-92  Society 1  Bill decided not to take a loan at 53%
-92  Society 1  Bill decided not to take a loan at 49%
-92  Society 1  $10000000.00
-92  Society 1  Average Debt: $80777.70
-92  Society 1  Average Delinquency: 0.7017543859649122
-92  Society 1  Default Rate: 0.01882376804965177
-92  Society 1  Bankers: 2
-92  Society 1  Consumer Debt: 4604328.791542121
-92  Society 1  Faith in credit score: 0.9612904746311544
-92  Society 1  Average Income: 103910.00060987916
-92  Society 1  Average Interest Rate: 0.010000000000000007
-92  Society 1  Average Credit Score: 530.89
-92  Society 1  Credit Risk: 0.5087719298245614
-93  Society 1  Bill decided not to take a loan at 54%
-93  Society 1  Bill decided not to take a loan at 58%
-93  Society 1  Bill decided not to take a loan at 51%
-93  Society 1  Bill decided not to take a loan at 51%
-93  Society 1  Bill decided not to take a loan at 58%
-93  Society 1  Bill decided not to take a loan at 47%
-93  Society 1  Bill decided not to take a loan at 54%
-93  Society 1  Bill decided not to take a loan at 33%
-93  Society 1  Bill decided not to take a loan at 47%
-93  Society 1  Bill decided not to take a loan at 47%
-93  Society 1  Bill decided not to take a loan at 51%
-93  Society 1  $10000000.00
-93  Society 1  Average Debt: $81502.11
-93  Society 1  Average Delinquency: 0.7192982456140351
-93  Society 1  Default Rate: 0.018818457753612575
-93  Society 1  Bankers: 2
-93  Society 1  Consumer Debt: 4645620.437141029
-93  Society 1  Faith in credit score: 0.9570386505612098
-93  Society 1  Average Income: 103910.00060987916
-93  Society 1  Average Interest Rate: 0.010000000000000007
-93  Society 1  Average Credit Score: 520.26
-93  Society 1  Credit Risk: 0.5263157894736842
-94  Society 1  Bill decided not to take a loan at 58%
-94  Society 1  Bill decided not to take a loan at 51%
-94  Society 1  Bill decided not to take a loan at 47%
-94  Society 1  Bill decided not to take a loan at 55%
-94  Society 1  Bill decided not to take a loan at 33%
-94  Society 1  Bill decided not to take a loan at 51%
-94  Society 1  Bill decided not to take a loan at 47%
-94  Society 1  Bill decided not to take a loan at 47%
-94  Society 1  $10000000.00
-94  Society 1  Average Debt: $82453.99
-94  Society 1  Average Delinquency: 0.7192982456140351
-94  Society 1  Default Rate: 0.018964425283939847
-94  Society 1  Bankers: 2
-94  Society 1  Consumer Debt: 4699877.243602043
-94  Society 1  Faith in credit score: 0.9604347552845616
-94  Society 1  Average Income: 103910.00060987916
-94  Society 1  Average Interest Rate: 0.010000000000000007
-94  Society 1  Average Credit Score: 511.06
-94  Society 1  Credit Risk: 0.543859649122807
-95  Society 1  Bill decided not to take a loan at 55%
-95  Society 1  Bill decided not to take a loan at 55%
-95  Society 1  Bill decided not to take a loan at 59%
-95  Society 1  Bill decided not to take a loan at 59%
-95  Society 1  Bill decided not to take a loan at 48%
-95  Society 1  Bill decided not to take a loan at 55%
-95  Society 1  Bill decided not to take a loan at 51%
-95  Society 1  Bill decided not to take a loan at 48%
-95  Society 1  Bill decided not to take a loan at 48%
-95  Society 1  $10000000.00
-95  Society 1  Average Debt: $83136.33
-95  Society 1  Average Delinquency: 0.7192982456140351
-95  Society 1  Default Rate: 0.018898357280163935
-95  Society 1  Bankers: 2
-95  Society 1  Consumer Debt: 4738770.55175333
-95  Society 1  Faith in credit score: 0.943161440722379
-95  Society 1  Average Income: 103910.00060987916
-95  Society 1  Average Interest Rate: 0.010000000000000007
-95  Society 1  Average Credit Score: 505.12
-95  Society 1  Credit Risk: 0.5614035087719298
-96  Society 1  Bill decided not to take a loan at 55%
-96  Society 1  Bill decided not to take a loan at 59%
-96  Society 1  Bill decided not to take a loan at 55%
-96  Society 1  Bill decided not to take a loan at 55%
-96  Society 1  Bill decided not to take a loan at 33%
-96  Society 1  Bill decided not to take a loan at 51%
-96  Society 1  Bill decided not to take a loan at 51%
-96  Society 1  $10000000.00
-96  Society 1  Average Debt: $84119.39
-96  Society 1  Average Delinquency: 0.7368421052631579
-96  Society 1  Default Rate: 0.018864332962277065
-96  Society 1  Bankers: 2
-96  Society 1  Consumer Debt: 4794805.082724631
-96  Society 1  Faith in credit score: 0.9432423752503143
-96  Society 1  Average Income: 103910.00060987916
-96  Society 1  Average Interest Rate: 0.010000000000000007
-96  Society 1  Average Credit Score: 503.82
-96  Society 1  Credit Risk: 0.5789473684210527
-97  Society 1  Bill decided not to take a loan at 55%
-97  Society 1  Bill decided not to take a loan at 55%
-97  Society 1  Bill decided not to take a loan at 59%
-97  Society 1  Bill decided not to take a loan at 51%
-97  Society 1  Bill decided not to take a loan at 59%
-97  Society 1  Bill decided not to take a loan at 55%
-97  Society 1  Bill decided not to take a loan at 55%
-97  Society 1  Bill decided not to take a loan at 51%
-97  Society 1  Bill decided not to take a loan at 50%
-97  Society 1  Bill decided not to take a loan at 51%
-97  Society 1  $10000000.00
-97  Society 1  Average Debt: $84686.88
-97  Society 1  Average Delinquency: 0.7543859649122807
-97  Society 1  Default Rate: 0.018765972204105703
-97  Society 1  Bankers: 2
-97  Society 1  Consumer Debt: 4827152.271752542
-97  Society 1  Faith in credit score: 0.9428714769221092
-97  Society 1  Average Income: 103910.00060987916
-97  Society 1  Average Interest Rate: 0.010000000000000007
-97  Society 1  Average Credit Score: 501.34
-97  Society 1  Credit Risk: 0.5964912280701754
-98  Society 1  Bill decided not to take a loan at 55%
-98  Society 1  Bill decided not to take a loan at 51%
-98  Society 1  Bill decided not to take a loan at 48%
-98  Society 1  Bill decided not to take a loan at 55%
-98  Society 1  Bill decided not to take a loan at 55%
-98  Society 1  Bill decided not to take a loan at 33%
-98  Society 1  Bill decided not to take a loan at 53%
-98  Society 1  Bill decided not to take a loan at 51%
-98  Society 1  Bill decided not to take a loan at 55%
-98  Society 1  $10000000.00
-98  Society 1  Average Debt: $85423.69
-98  Society 1  Average Delinquency: 0.8070175438596491
-98  Society 1  Default Rate: 0.018682542751352765
-98  Society 1  Bankers: 2
-98  Society 1  Consumer Debt: 4869150.268657238
-98  Society 1  Faith in credit score: 0.936844450559671
-98  Society 1  Average Income: 103910.00060987916
-98  Society 1  Average Interest Rate: 0.010000000000000007
-98  Society 1  Average Credit Score: 491.78
-98  Society 1  Credit Risk: 0.6140350877192983
-99  Society 1  Bill decided not to take a loan at 55%
-99  Society 1  Bill decided not to take a loan at 55%
-99  Society 1  Bill decided not to take a loan at 58%
-99  Society 1  Bill decided not to take a loan at 58%
-99  Society 1  Bill decided not to take a loan at 55%
-99  Society 1  Bill decided not to take a loan at 33%
-99  Society 1  Bill decided not to take a loan at 53%
-99  Society 1  Bill decided not to take a loan at 51%
-99  Society 1  Bill decided not to take a loan at 47%
-99  Society 1  $10000000.00
-99  Society 1  Average Debt: $86593.05
-99  Society 1  Average Delinquency: 0.8245614035087719
-99  Society 1  Default Rate: 0.018629804149503743
-99  Society 1  Bankers: 2
-99  Society 1  Consumer Debt: 4935803.938323933
-99  Society 1  Faith in credit score: 0.9427987657457441
-99  Society 1  Average Income: 103910.00060987916
-99  Society 1  Average Interest Rate: 0.010000000000000007
-99  Society 1  Average Credit Score: 481.29
-99  Society 1  Credit Risk: 0.631578947368421
-100  Society 1  Bill decided not to take a loan at 54%
-100  Society 1  Bill decided not to take a loan at 51%
-100  Society 1  Bill decided not to take a loan at 33%
-100  Society 1  Bill decided not to take a loan at 51%
-100  Society 1  Bill decided not to take a loan at 54%
-100  Society 1  Bill decided not to take a loan at 51%
-100  Society 1  $10000000.00
-100  Society 1  Average Debt: $87464.06
-100  Society 1  Average Delinquency: 0.8245614035087719
-100  Society 1  Default Rate: 0.018568268582916225
-100  Society 1  Bankers: 2
-100  Society 1  Consumer Debt: 4985451.527855913
-100  Society 1  Faith in credit score: 0.9397739550863777
-100  Society 1  Average Income: 103910.00060987916
-100  Society 1  Average Interest Rate: 0.010000000000000007
-100  Society 1  Average Credit Score: 474.25
-100  Society 1  Credit Risk: 0.6666666666666665
-101  Society 1  Bill decided not to take a loan at 49%
-101  Society 1  Bill decided not to take a loan at 49%
-101  Society 1  Bill decided not to take a loan at 53%
-101  Society 1  Bill decided not to take a loan at 32%
-101  Society 1  Bill decided not to take a loan at 51%
-101  Society 1  Bill decided not to take a loan at 46%
-101  Society 1  Bill decided not to take a loan at 53%
-101  Society 1  Bill decided not to take a loan at 46%
-101  Society 1  $10000000.00
-101  Society 1  Average Debt: $88314.58
-101  Society 1  Average Delinquency: 0.8596491228070176
-101  Society 1  Default Rate: 0.018591919216756403
-101  Society 1  Bankers: 2
-101  Society 1  Consumer Debt: 5033931.33373239
-101  Society 1  Faith in credit score: 0.9387664752547996
-101  Society 1  Average Income: 103910.00060987916
-101  Society 1  Average Interest Rate: 0.010000000000000007
-101  Society 1  Average Credit Score: 464.52
-101  Society 1  Credit Risk: 0.6666666666666665
-102  Society 1  Bill decided not to take a loan at 53%
-102  Society 1  Bill decided not to take a loan at 53%
-102  Society 1  Bill decided not to take a loan at 49%
-102  Society 1  Bill decided not to take a loan at 51%
-102  Society 1  Bill decided not to take a loan at 48%
-102  Society 1  Bill decided not to take a loan at 49%
-102  Society 1  $10000000.00
-102  Society 1  Average Debt: $89232.43
-102  Society 1  Average Delinquency: 0.8771929824561403
-102  Society 1  Default Rate: 0.018518783343850324
-102  Society 1  Bankers: 2
-102  Society 1  Consumer Debt: 5086248.368971342
-102  Society 1  Faith in credit score: 0.9155103744650357
-102  Society 1  Average Income: 103910.00060987916
-102  Society 1  Average Interest Rate: 0.010000000000000007
-102  Society 1  Average Credit Score: 443.08
-102  Society 1  Credit Risk: 0.7017543859649122
-103  Society 1  Bill decided not to take a loan at 51%
-103  Society 1  Bill decided not to take a loan at 51%
-103  Society 1  Bill decided not to take a loan at 47%
-103  Society 1  Bill decided not to take a loan at 54%
-103  Society 1  Bill decided not to take a loan at 47%
-103  Society 1  Bill decided not to take a loan at 30%
-103  Society 1  Bill decided not to take a loan at 49%
-103  Society 1  $10000000.00
-103  Society 1  Average Debt: $90217.68
-103  Society 1  Average Delinquency: 0.8947368421052632
-103  Society 1  Default Rate: 0.018426148773250023
-103  Society 1  Bankers: 2
-103  Society 1  Consumer Debt: 5142407.69696398
-103  Society 1  Faith in credit score: 0.9318250244702302
-103  Society 1  Average Income: 103910.00060987916
-103  Society 1  Average Interest Rate: 0.010000000000000007
-103  Society 1  Average Credit Score: 425.53
-103  Society 1  Credit Risk: 0.7192982456140351
-104  Society 1  Bill decided not to take a loan at 49%
-104  Society 1  Bill decided not to take a loan at 52%
-104  Society 1  Bill decided not to take a loan at 46%
-104  Society 1  Bill decided not to take a loan at 52%
-104  Society 1  Bill decided not to take a loan at 46%
-104  Society 1  Bill decided not to take a loan at 49%
-104  Society 1  Bill decided not to take a loan at 47%
-104  Society 1  Bill decided not to take a loan at 44%
-104  Society 1  Bill decided not to take a loan at 49%
-104  Society 1  Bill decided not to take a loan at 43%
-104  Society 1  Bill decided not to take a loan at 46%
-104  Society 1  $10000000.00
-104  Society 1  Average Debt: $91036.51
-104  Society 1  Average Delinquency: 0.9298245614035088
-104  Society 1  Default Rate: 0.018377657856213637
-104  Society 1  Bankers: 2
-104  Society 1  Consumer Debt: 5189081.098647588
-104  Society 1  Faith in credit score: 0.9163654466783072
-104  Society 1  Average Income: 103910.00060987916
-104  Society 1  Average Interest Rate: 0.010000000000000007
-104  Society 1  Average Credit Score: 419.34
-104  Society 1  Credit Risk: 0.7543859649122807
-105  Society 1  Bill decided not to take a loan at 45%
-105  Society 1  Bill decided not to take a loan at 48%
-105  Society 1  Bill decided not to take a loan at 48%
-105  Society 1  Bill decided not to take a loan at 42%
-105  Society 1  Bill decided not to take a loan at 39%
-105  Society 1  Bill decided not to take a loan at 45%
-105  Society 1  Bill decided not to take a loan at 27%
-105  Society 1  Bill decided not to take a loan at 41%
-105  Society 1  Bill decided not to take a loan at 39%
-105  Society 1  Bill decided not to take a loan at 41%
-105  Society 1  Bill decided not to take a loan at 45%
-105  Society 1  Bill decided not to take a loan at 39%
-105  Society 1  Bill decided not to take a loan at 42%
-105  Society 1  $10000000.00
-105  Society 1  Average Debt: $91864.45
-105  Society 1  Average Delinquency: 0.9824561403508771
-105  Society 1  Default Rate: 0.01832388838640468
-105  Society 1  Bankers: 2
-105  Society 1  Consumer Debt: 5236273.739683439
-105  Society 1  Faith in credit score: 0.9193658799026148
-105  Society 1  Average Income: 103910.00060987916
-105  Society 1  Average Interest Rate: 0.010000000000000007
-105  Society 1  Average Credit Score: 404.95
-105  Society 1  Credit Risk: 0.7894736842105263
-106  Society 1  Bill decided not to take a loan at 37%
-106  Society 1  Bill decided not to take a loan at 35%
-106  Society 1  Bill decided not to take a loan at 40%
-106  Society 1  Bill decided not to take a loan at 40%
-106  Society 1  Bill decided not to take a loan at 24%
-106  Society 1  Bill decided not to take a loan at 37%
-106  Society 1  Bill decided not to take a loan at 40%
-106  Society 1  Bill decided not to take a loan at 40%
-106  Society 1  $10000000.00
-106  Society 1  Average Debt: $92891.65
-106  Society 1  Average Delinquency: 0.9824561403508771
-106  Society 1  Default Rate: 0.018184881129928294
-106  Society 1  Bankers: 2
-106  Society 1  Consumer Debt: 5294824.170973214
-106  Society 1  Faith in credit score: 0.9212390057543673
-106  Society 1  Average Income: 103910.00060987916
-106  Society 1  Average Interest Rate: 0.010000000000000007
-106  Society 1  Average Credit Score: 388.42
-106  Society 1  Credit Risk: 0.8245614035087719
-107  Society 1  Bill decided not to take a loan at 33%
-107  Society 1  Bill decided not to take a loan at 31%
-107  Society 1  Bill decided not to take a loan at 31%
-107  Society 1  Bill decided not to take a loan at 29%
-107  Society 1  Bill decided not to take a loan at 20%
-107  Society 1  Bill decided not to take a loan at 31%
-107  Society 1  Bill decided not to take a loan at 29%
-107  Society 1  $10000000.00
-107  Society 1  Average Debt: $93664.99
-107  Society 1  Average Delinquency: 0.9824561403508771
-107  Society 1  Default Rate: 0.018169533925816175
-107  Society 1  Bankers: 2
-107  Society 1  Consumer Debt: 5338904.329180579
-107  Society 1  Faith in credit score: 0.9156038064114839
-107  Society 1  Average Income: 103910.00060987916
-107  Society 1  Average Interest Rate: 0.010000000000000007
-107  Society 1  Average Credit Score: 383.55
-107  Society 1  Credit Risk: 0.8245614035087719
-108  Society 1  Bill decided not to take a loan at 33%
-108  Society 1  Bill decided not to take a loan at 31%
-108  Society 1  Bill decided not to take a loan at 29%
-108  Society 1  Bill decided not to take a loan at 20%
-108  Society 1  Bill decided not to take a loan at 32%
-108  Society 1  Bill decided not to take a loan at 30%
-108  Society 1  Bill decided not to take a loan at 31%
-108  Society 1  Bill decided not to take a loan at 29%
-108  Society 1  Bill decided not to take a loan at 30%
-108  Society 1  Bill decided not to take a loan at 33%
-108  Society 1  Bill decided not to take a loan at 29%
-108  Society 1  Bill decided not to take a loan at 33%
-108  Society 1  Bill decided not to take a loan at 31%
-108  Society 1  $10000000.00
-108  Society 1  Average Debt: $94813.21
-108  Society 1  Average Delinquency: 0.9824561403508771
-108  Society 1  Default Rate: 0.018176318334405486
-108  Society 1  Bankers: 2
-108  Society 1  Consumer Debt: 5404352.870591341
-108  Society 1  Faith in credit score: 0.9173213847160329
-108  Society 1  Average Income: 103910.00060987916
-108  Society 1  Average Interest Rate: 0.010000000000000007
-108  Society 1  Average Credit Score: 372.06
-108  Society 1  Credit Risk: 0.8245614035087719
-109  Society 1  Bill decided not to take a loan at 33%
-109  Society 1  Bill decided not to take a loan at 35%
-109  Society 1  Bill decided not to take a loan at 35%
-109  Society 1  Bill decided not to take a loan at 31%
-109  Society 1  Bill decided not to take a loan at 29%
-109  Society 1  Bill decided not to take a loan at 33%
-109  Society 1  Bill decided not to take a loan at 20%
-109  Society 1  Bill decided not to take a loan at 31%
-109  Society 1  Bill decided not to take a loan at 33%
-109  Society 1  Bill decided not to take a loan at 33%
-109  Society 1  Bill decided not to take a loan at 31%
-109  Society 1  $10000000.00
-109  Society 1  Average Debt: $95795.47
-109  Society 1  Average Delinquency: 0.9824561403508771
-109  Society 1  Default Rate: 0.018091053727485647
-109  Society 1  Bankers: 2
-109  Society 1  Consumer Debt: 5460341.838312256
-109  Society 1  Faith in credit score: 0.9110355664598229
-109  Society 1  Average Income: 103910.00060987916
-109  Society 1  Average Interest Rate: 0.010000000000000007
-109  Society 1  Average Credit Score: 359.41
-109  Society 1  Credit Risk: 0.8421052631578947
-110  Society 1  Bill decided not to take a loan at 29%
-110  Society 1  Bill decided not to take a loan at 31%
-110  Society 1  Bill decided not to take a loan at 27%
-110  Society 1  Bill decided not to take a loan at 27%
-110  Society 1  Bill decided not to take a loan at 31%
-110  Society 1  Bill decided not to take a loan at 27%
-110  Society 1  Bill decided not to take a loan at 29%
-110  Society 1  Bill decided not to take a loan at 28%
-110  Society 1  Bill decided not to take a loan at 31%
-110  Society 1  $10000000.00
-110  Society 1  Average Debt: $96670.35
-110  Society 1  Average Delinquency: 0.9824561403508771
-110  Society 1  Default Rate: 0.01800893005166779
-110  Society 1  Bankers: 2
-110  Society 1  Consumer Debt: 5510209.996141804
-110  Society 1  Faith in credit score: 0.9060111672606475
-110  Society 1  Average Income: 103910.00060987916
-110  Society 1  Average Interest Rate: 0.010000000000000007
-110  Society 1  Average Credit Score: 350.24
-110  Society 1  Credit Risk: 0.8771929824561403
-111  Society 1  Bill decided not to take a loan at 18%
-111  Society 1  Bill decided not to take a loan at 19%
-111  Society 1  Bill decided not to take a loan at 19%
-111  Society 1  Bill decided not to take a loan at 15%
-111  Society 1  Bill decided not to take a loan at 18%
-111  Society 1  Bill decided not to take a loan at 18%
-111  Society 1  Bill decided not to take a loan at 11%
-111  Society 1  Bill decided not to take a loan at 16%
-111  Society 1  Bill decided not to take a loan at 18%
-111  Society 1  Bill decided not to take a loan at 16%
-111  Society 1  $10000000.00
-111  Society 1  Average Debt: $97613.38
-111  Society 1  Average Delinquency: 0.9824561403508771
-111  Society 1  Default Rate: 0.01781580945381627
-111  Society 1  Bankers: 2
-111  Society 1  Consumer Debt: 5563962.829113089
-111  Society 1  Faith in credit score: 0.9035293696843196
-111  Society 1  Average Income: 103910.00060987916
-111  Society 1  Average Interest Rate: 0.010000000000000007
-111  Society 1  Average Credit Score: 344.51
-111  Society 1  Credit Risk: 0.9122807017543859
-112  Society 1  $10000000.00
-112  Society 1  Average Debt: $98522.33
-112  Society 1  Average Delinquency: 0.9824561403508771
-112  Society 1  Default Rate: 0.01781477649215573
-112  Society 1  Bankers: 2
-112  Society 1  Consumer Debt: 5615772.54404213
-112  Society 1  Faith in credit score: 0.9036805118397778
-112  Society 1  Average Income: 103910.00060987916
-112  Society 1  Average Interest Rate: 0.010000000000000007
-112  Society 1  Average Credit Score: 329.58
-112  Society 1  Credit Risk: 0.9122807017543859
-113  Society 1  $10000000.00
-113  Society 1  Average Debt: $99628.27
-113  Society 1  Average Delinquency: 0.9824561403508771
-113  Society 1  Default Rate: 0.01776639321172713
-113  Society 1  Bankers: 2
-113  Society 1  Consumer Debt: 5678811.403415068
-113  Society 1  Faith in credit score: 0.9185773783554418
-113  Society 1  Average Income: 103910.00060987916
-113  Society 1  Average Interest Rate: 0.010000000000000007
-113  Society 1  Average Credit Score: 314.66
-113  Society 1  Credit Risk: 0.9298245614035088
-114  Society 1  $10000000.00
-114  Society 1  Average Debt: $100530.73
-114  Society 1  Average Delinquency: 0.9824561403508771
-114  Society 1  Default Rate: 0.017765312273814202
-114  Society 1  Bankers: 2
-114  Society 1  Consumer Debt: 5730251.7259475365
-114  Society 1  Faith in credit score: 0.9066436424088355
-114  Society 1  Average Income: 103910.00060987916
-114  Society 1  Average Interest Rate: 0.010000000000000007
-114  Society 1  Average Credit Score: 303.19
-114  Society 1  Credit Risk: 0.9298245614035088
-115  Society 1  $10000000.00
-115  Society 1  Average Debt: $101601.16
-115  Society 1  Average Delinquency: 0.9824561403508771
-115  Society 1  Default Rate: 0.01770437896340674
-115  Society 1  Bankers: 2
-115  Society 1  Consumer Debt: 5791265.887149693
-115  Society 1  Faith in credit score: 0.8969271316542613
-115  Society 1  Average Income: 103910.00060987916
-115  Society 1  Average Interest Rate: 0.010000000000000007
-115  Society 1  Average Credit Score: 291.71
-115  Society 1  Credit Risk: 0.9473684210526315
+72  Society 1  $1000000.00
+72  Society 1  Average Debt: $8296.90
+72  Society 1  Average Delinquency: 1.0
+72  Society 1  Default Rate: 0
+72  Society 1  Bankers: 1
+72  Society 1  Consumer Debt: 16593.798333468018
+72  Society 1  Faith in credit score: 0
+72  Society 1  Average Income: 12038.733410801162
+72  Society 1  Average Interest Rate: 0.01
+72  Society 1  Average Credit Score: 599.6
+72  Society 1  Credit Risk: 0.01
+73  Society 1  $1000000.00
+73  Society 1  Average Debt: $8380.27
+73  Society 1  Average Delinquency: 1.0
+73  Society 1  Default Rate: 0
+73  Society 1  Bankers: 1
+73  Society 1  Consumer Debt: 16760.54085122838
+73  Society 1  Faith in credit score: 0
+73  Society 1  Average Income: 12038.733410801162
+73  Society 1  Average Interest Rate: 0.01
+73  Society 1  Average Credit Score: 599.6
+73  Society 1  Credit Risk: 0.01
+74  Society 1  $1000000.00
+74  Society 1  Average Debt: $8464.48
+74  Society 1  Average Delinquency: 1.0
+74  Society 1  Default Rate: 0
+74  Society 1  Bankers: 1
+74  Society 1  Consumer Debt: 16928.958878517682
+74  Society 1  Faith in credit score: 0
+74  Society 1  Average Income: 12038.733410801162
+74  Society 1  Average Interest Rate: 0.01
+74  Society 1  Average Credit Score: 599.6
+74  Society 1  Credit Risk: 0.01
+75  Society 1  $1000000.00
+75  Society 1  Average Debt: $8549.53
+75  Society 1  Average Delinquency: 1.0
+75  Society 1  Default Rate: 0
+75  Society 1  Bankers: 1
+75  Society 1  Consumer Debt: 17099.06925166669
+75  Society 1  Faith in credit score: 0
+75  Society 1  Average Income: 12038.733410801162
+75  Society 1  Average Interest Rate: 0.01
+75  Society 1  Average Credit Score: 599.6
+75  Society 1  Credit Risk: 0.01
+76  Society 1  $1000000.00
+76  Society 1  Average Debt: $8635.44
+76  Society 1  Average Delinquency: 1.0
+76  Society 1  Default Rate: 0
+76  Society 1  Bankers: 1
+76  Society 1  Consumer Debt: 17270.88897618577
+76  Society 1  Faith in credit score: 0
+76  Society 1  Average Income: 12038.733410801162
+76  Society 1  Average Interest Rate: 0.01
+76  Society 1  Average Credit Score: 599.6
+76  Society 1  Credit Risk: 0.01
+77  Society 1  $1000000.00
+77  Society 1  Average Debt: $8722.22
+77  Society 1  Average Delinquency: 1.0
+77  Society 1  Default Rate: 0
+77  Society 1  Bankers: 1
+77  Society 1  Consumer Debt: 17444.435228464892
+77  Society 1  Faith in credit score: 0
+77  Society 1  Average Income: 12038.733410801162
+77  Society 1  Average Interest Rate: 0.01
+77  Society 1  Average Credit Score: 599.6
+77  Society 1  Credit Risk: 0.01
+78  Society 1  $1000000.00
+78  Society 1  Average Debt: $8809.86
+78  Society 1  Average Delinquency: 1.0
+78  Society 1  Default Rate: 0
+78  Society 1  Bankers: 1
+78  Society 1  Consumer Debt: 17619.725357490694
+78  Society 1  Faith in credit score: 0
+78  Society 1  Average Income: 12038.733410801162
+78  Society 1  Average Interest Rate: 0.01
+78  Society 1  Average Credit Score: 599.6
+78  Society 1  Credit Risk: 0.01
+79  Society 1  $1000000.00
+79  Society 1  Average Debt: $8898.39
+79  Society 1  Average Delinquency: 1.0
+79  Society 1  Default Rate: 0
+79  Society 1  Bankers: 1
+79  Society 1  Consumer Debt: 17796.776886580843
+79  Society 1  Faith in credit score: 0
+79  Society 1  Average Income: 12038.733410801162
+79  Society 1  Average Interest Rate: 0.01
+79  Society 1  Average Credit Score: 599.6
+79  Society 1  Credit Risk: 0.01
+80  Society 1  $1000000.00
+80  Society 1  Average Debt: $8987.80
+80  Society 1  Average Delinquency: 1.0
+80  Society 1  Default Rate: 0
+80  Society 1  Bankers: 1
+80  Society 1  Consumer Debt: 17975.607515135773
+80  Society 1  Faith in credit score: 0
+80  Society 1  Average Income: 12038.733410801162
+80  Society 1  Average Interest Rate: 0.01
+80  Society 1  Average Credit Score: 599.6
+80  Society 1  Credit Risk: 0.01
+81  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+81  Society 1  Average Debt: $9078.12
+81  Society 1  Average Delinquency: 1.0
+81  Society 1  Default Rate: 0.5000000000000002
+81  Society 1  Bankers: 1
+81  Society 1  Consumer Debt: 18156.23512040807
+81  Society 1  Faith in credit score: 0
+81  Society 1  Average Income: 12038.733410801162
+81  Society 1  Average Interest Rate: 0.01
+81  Society 1  Average Credit Score: 597.3
+81  Society 1  Credit Risk: 0.01
+82  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+82  Society 1  Average Debt: $9169.34
+82  Society 1  Average Delinquency: 1.0
+82  Society 1  Default Rate: 0.5000000000000002
+82  Society 1  Bankers: 1
+82  Society 1  Consumer Debt: 18338.677759289603
+82  Society 1  Faith in credit score: 0
+82  Society 1  Average Income: 12038.733410801162
+82  Society 1  Average Interest Rate: 0.01
+82  Society 1  Average Credit Score: 597.3
+82  Society 1  Credit Risk: 0.01
+83  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+83  Society 1  Average Debt: $9261.48
+83  Society 1  Average Delinquency: 1.0
+83  Society 1  Default Rate: 0.5000000000000002
+83  Society 1  Bankers: 1
+83  Society 1  Consumer Debt: 18522.953670116633
+83  Society 1  Faith in credit score: 0
+83  Society 1  Average Income: 12038.733410801162
+83  Society 1  Average Interest Rate: 0.01
+83  Society 1  Average Credit Score: 597.3
+83  Society 1  Credit Risk: 0.01
+84  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+84  Society 1  Average Debt: $9354.54
+84  Society 1  Average Delinquency: 1.0
+84  Society 1  Default Rate: 0.5000000000000002
+84  Society 1  Bankers: 1
+84  Society 1  Consumer Debt: 18709.081274493048
+84  Society 1  Faith in credit score: 0
+84  Society 1  Average Income: 12038.733410801162
+84  Society 1  Average Interest Rate: 0.01
+84  Society 1  Average Credit Score: 597.3
+84  Society 1  Credit Risk: 0.01
+85  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+85  Society 1  Average Debt: $9448.54
+85  Society 1  Average Delinquency: 1.0
+85  Society 1  Default Rate: 0.5000000000000002
+85  Society 1  Bankers: 1
+85  Society 1  Consumer Debt: 18897.079179131928
+85  Society 1  Faith in credit score: 0
+85  Society 1  Average Income: 12038.733410801162
+85  Society 1  Average Interest Rate: 0.01
+85  Society 1  Average Credit Score: 597.3
+85  Society 1  Credit Risk: 0.01
+86  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+86  Society 1  Average Debt: $9543.48
+86  Society 1  Average Delinquency: 1.0
+86  Society 1  Default Rate: 0.5000000000000002
+86  Society 1  Bankers: 1
+86  Society 1  Consumer Debt: 19086.966177715625
+86  Society 1  Faith in credit score: 0
+86  Society 1  Average Income: 12038.733410801162
+86  Society 1  Average Interest Rate: 0.01
+86  Society 1  Average Credit Score: 597.3
+86  Society 1  Credit Risk: 0.01
+87  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+87  Society 1  Average Debt: $9639.38
+87  Society 1  Average Delinquency: 1.0
+87  Society 1  Default Rate: 0.5000000000000001
+87  Society 1  Bankers: 1
+87  Society 1  Consumer Debt: 19278.761252774493
+87  Society 1  Faith in credit score: 0
+87  Society 1  Average Income: 12038.733410801162
+87  Society 1  Average Interest Rate: 0.01
+87  Society 1  Average Credit Score: 597.3
+87  Society 1  Credit Risk: 0.01
+88  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+88  Society 1  Average Debt: $9736.24
+88  Society 1  Average Delinquency: 1.0
+88  Society 1  Default Rate: 0.5
+88  Society 1  Bankers: 1
+88  Society 1  Consumer Debt: 19472.483577584542
+88  Society 1  Faith in credit score: 0
+88  Society 1  Average Income: 12038.733410801162
+88  Society 1  Average Interest Rate: 0.01
+88  Society 1  Average Credit Score: 597.3
+88  Society 1  Credit Risk: 0.01
+89  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+89  Society 1  Average Debt: $9834.08
+89  Society 1  Average Delinquency: 1.0
+89  Society 1  Default Rate: 0.5000000000000001
+89  Society 1  Bankers: 1
+89  Society 1  Consumer Debt: 19668.15251808414
+89  Society 1  Faith in credit score: 0
+89  Society 1  Average Income: 12038.733410801162
+89  Society 1  Average Interest Rate: 0.01
+89  Society 1  Average Credit Score: 597.3
+89  Society 1  Credit Risk: 0.01
+90  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+90  Society 1  Average Debt: $9932.89
+90  Society 1  Average Delinquency: 1.0
+90  Society 1  Default Rate: 0.5000000000000001
+90  Society 1  Bankers: 1
+90  Society 1  Consumer Debt: 19865.78763480999
+90  Society 1  Faith in credit score: 0
+90  Society 1  Average Income: 11750.0
+90  Society 1  Average Interest Rate: 0.01
+90  Society 1  Average Credit Score: 595.0
+90  Society 1  Credit Risk: 0.01
+91  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+91  Society 1  Average Debt: $10032.70
+91  Society 1  Average Delinquency: 1.0
+91  Society 1  Default Rate: 0.5000000000000001
+91  Society 1  Bankers: 1
+91  Society 1  Consumer Debt: 20065.40868485252
+91  Society 1  Faith in credit score: 0
+91  Society 1  Average Income: 11750.0
+91  Society 1  Average Interest Rate: 0.01
+91  Society 1  Average Credit Score: 595.0
+91  Society 1  Credit Risk: 0.01
+92  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+92  Society 1  Average Debt: $10133.52
+92  Society 1  Average Delinquency: 1.0
+92  Society 1  Default Rate: 0.5000000000000002
+92  Society 1  Bankers: 1
+92  Society 1  Consumer Debt: 20267.03562383097
+92  Society 1  Faith in credit score: 0
+92  Society 1  Average Income: 11750.0
+92  Society 1  Average Interest Rate: 0.01
+92  Society 1  Average Credit Score: 595.0
+92  Society 1  Credit Risk: 0.01
+93  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+93  Society 1  Average Debt: $10235.34
+93  Society 1  Average Delinquency: 1.0
+93  Society 1  Default Rate: 0.5000000000000002
+93  Society 1  Bankers: 1
+93  Society 1  Consumer Debt: 20470.68860788831
+93  Society 1  Faith in credit score: 0
+93  Society 1  Average Income: 11750.0
+93  Society 1  Average Interest Rate: 0.01
+93  Society 1  Average Credit Score: 595.0
+93  Society 1  Credit Risk: 0.01
+94  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+94  Society 1  Average Debt: $10338.19
+94  Society 1  Average Delinquency: 1.0
+94  Society 1  Default Rate: 0.5000000000000002
+94  Society 1  Bankers: 1
+94  Society 1  Consumer Debt: 20676.38799570618
+94  Society 1  Faith in credit score: 0
+94  Society 1  Average Income: 11750.0
+94  Society 1  Average Interest Rate: 0.01
+94  Society 1  Average Credit Score: 595.0
+94  Society 1  Credit Risk: 0.01
+95  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+95  Society 1  Average Debt: $10442.08
+95  Society 1  Average Delinquency: 1.0
+95  Society 1  Default Rate: 0.5000000000000002
+95  Society 1  Bankers: 1
+95  Society 1  Consumer Debt: 20884.15435054012
+95  Society 1  Faith in credit score: 0
+95  Society 1  Average Income: 11750.0
+95  Society 1  Average Interest Rate: 0.01
+95  Society 1  Average Credit Score: 595.0
+95  Society 1  Credit Risk: 0.01
+96  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+96  Society 1  Average Debt: $10547.00
+96  Society 1  Average Delinquency: 1.0
+96  Society 1  Default Rate: 0.5000000000000002
+96  Society 1  Bankers: 1
+96  Society 1  Consumer Debt: 21094.008442275204
+96  Society 1  Faith in credit score: 0
+96  Society 1  Average Income: 11750.0
+96  Society 1  Average Interest Rate: 0.01
+96  Society 1  Average Credit Score: 595.0
+96  Society 1  Credit Risk: 0.01
+97  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+97  Society 1  Average Debt: $10652.99
+97  Society 1  Average Delinquency: 1.0
+97  Society 1  Default Rate: 0.5000000000000002
+97  Society 1  Bankers: 1
+97  Society 1  Consumer Debt: 21305.971249502363
+97  Society 1  Faith in credit score: 0
+97  Society 1  Average Income: 11750.0
+97  Society 1  Average Interest Rate: 0.01
+97  Society 1  Average Credit Score: 592.7
+97  Society 1  Credit Risk: 0.01
+98  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+98  Society 1  Average Debt: $10760.03
+98  Society 1  Average Delinquency: 1.0
+98  Society 1  Default Rate: 0.5000000000000002
+98  Society 1  Bankers: 1
+98  Society 1  Consumer Debt: 21520.06396161558
+98  Society 1  Faith in credit score: 0
+98  Society 1  Average Income: 11750.0
+98  Society 1  Average Interest Rate: 0.01
+98  Society 1  Average Credit Score: 592.7
+98  Society 1  Credit Risk: 0.01
+99  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+99  Society 1  Average Debt: $10868.15
+99  Society 1  Average Delinquency: 1.0
+99  Society 1  Default Rate: 0.5000000000000002
+99  Society 1  Bankers: 1
+99  Society 1  Consumer Debt: 21736.307980930098
+99  Society 1  Faith in credit score: 0
+99  Society 1  Average Income: 11750.0
+99  Society 1  Average Interest Rate: 0.01
+99  Society 1  Average Credit Score: 592.7
+99  Society 1  Credit Risk: 0.01
+100  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+100  Society 1  Average Debt: $10977.36
+100  Society 1  Average Delinquency: 1.0
+100  Society 1  Default Rate: 0.5000000000000002
+100  Society 1  Bankers: 1
+100  Society 1  Consumer Debt: 21954.724924822018
+100  Society 1  Faith in credit score: 0
+100  Society 1  Average Income: 11750.0
+100  Society 1  Average Interest Rate: 0.01
+100  Society 1  Average Credit Score: 592.7
+100  Society 1  Credit Risk: 0.01
+101  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+101  Society 1  Average Debt: $11087.67
+101  Society 1  Average Delinquency: 1.0
+101  Society 1  Default Rate: 0.5000000000000003
+101  Society 1  Bankers: 1
+101  Society 1  Consumer Debt: 22175.33662788927
+101  Society 1  Faith in credit score: 0
+101  Society 1  Average Income: 11750.0
+101  Society 1  Average Interest Rate: 0.01
+101  Society 1  Average Credit Score: 592.7
+101  Society 1  Credit Risk: 0.01
+102  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+102  Society 1  Average Debt: $11199.08
+102  Society 1  Average Delinquency: 1.0
+102  Society 1  Default Rate: 0.5000000000000003
+102  Society 1  Bankers: 1
+102  Society 1  Consumer Debt: 22398.165144134415
+102  Society 1  Faith in credit score: 0
+102  Society 1  Average Income: 11750.0
+102  Society 1  Average Interest Rate: 0.01
+102  Society 1  Average Credit Score: 592.7
+102  Society 1  Credit Risk: 0.01
+103  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+103  Society 1  Average Debt: $11311.62
+103  Society 1  Average Delinquency: 1.0
+103  Society 1  Default Rate: 0.5000000000000002
+103  Society 1  Bankers: 1
+103  Society 1  Consumer Debt: 22623.23274916929
+103  Society 1  Faith in credit score: 0
+103  Society 1  Average Income: 11750.0
+103  Society 1  Average Interest Rate: 0.01
+103  Society 1  Average Credit Score: 592.7
+103  Society 1  Credit Risk: 0.01
+104  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+104  Society 1  Average Debt: $11425.28
+104  Society 1  Average Delinquency: 1.0
+104  Society 1  Default Rate: 0.5000000000000002
+104  Society 1  Bankers: 1
+104  Society 1  Consumer Debt: 22850.56194244187
+104  Society 1  Faith in credit score: 0
+104  Society 1  Average Income: 11750.0
+104  Society 1  Average Interest Rate: 0.01
+104  Society 1  Average Credit Score: 592.7
+104  Society 1  Credit Risk: 0.01
+105  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+105  Society 1  Average Debt: $11540.09
+105  Society 1  Average Delinquency: 1.0
+105  Society 1  Default Rate: 0.5000000000000002
+105  Society 1  Bankers: 1
+105  Society 1  Consumer Debt: 23080.17544948547
+105  Society 1  Faith in credit score: 0
+105  Society 1  Average Income: 11750.0
+105  Society 1  Average Interest Rate: 0.01
+105  Society 1  Average Credit Score: 592.7
+105  Society 1  Credit Risk: 0.01
+106  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+106  Society 1  Average Debt: $11656.05
+106  Society 1  Average Delinquency: 1.0
+106  Society 1  Default Rate: 0.5000000000000002
+106  Society 1  Bankers: 1
+106  Society 1  Consumer Debt: 23312.09622419057
+106  Society 1  Faith in credit score: 0
+106  Society 1  Average Income: 11750.0
+106  Society 1  Average Interest Rate: 0.01
+106  Society 1  Average Credit Score: 592.7
+106  Society 1  Credit Risk: 0.01
+107  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+107  Society 1  Average Debt: $11773.17
+107  Society 1  Average Delinquency: 1.0
+107  Society 1  Default Rate: 0.5000000000000001
+107  Society 1  Bankers: 1
+107  Society 1  Consumer Debt: 23546.347451099442
+107  Society 1  Faith in credit score: 0
+107  Society 1  Average Income: 11750.0
+107  Society 1  Average Interest Rate: 0.01
+107  Society 1  Average Credit Score: 592.7
+107  Society 1  Credit Risk: 0.01
+108  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+108  Society 1  Average Debt: $11891.48
+108  Society 1  Average Delinquency: 1.0
+108  Society 1  Default Rate: 0.5000000000000001
+108  Society 1  Bankers: 1
+108  Society 1  Consumer Debt: 23782.95254772388
+108  Society 1  Faith in credit score: 0
+108  Society 1  Average Income: 11750.0
+108  Society 1  Average Interest Rate: 0.01
+108  Society 1  Average Credit Score: 592.7
+108  Society 1  Credit Risk: 0.01
+109  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+109  Society 1  Average Debt: $12010.97
+109  Society 1  Average Delinquency: 1.0
+109  Society 1  Default Rate: 0.5000000000000001
+109  Society 1  Bankers: 1
+109  Society 1  Consumer Debt: 24021.93516688615
+109  Society 1  Faith in credit score: 0
+109  Society 1  Average Income: 11750.0
+109  Society 1  Average Interest Rate: 0.01
+109  Society 1  Average Credit Score: 592.7
+109  Society 1  Credit Risk: 0.01
+110  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+110  Society 1  Average Debt: $12131.66
+110  Society 1  Average Delinquency: 1.0
+110  Society 1  Default Rate: 0.5000000000000001
+110  Society 1  Bankers: 1
+110  Society 1  Consumer Debt: 24263.319199083533
+110  Society 1  Faith in credit score: 0
+110  Society 1  Average Income: 11750.0
+110  Society 1  Average Interest Rate: 0.01
+110  Society 1  Average Credit Score: 592.7
+110  Society 1  Credit Risk: 0.01
+111  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+111  Society 1  Average Debt: $12253.56
+111  Society 1  Average Delinquency: 1.0
+111  Society 1  Default Rate: 0.5000000000000001
+111  Society 1  Bankers: 1
+111  Society 1  Consumer Debt: 24507.128774876597
+111  Society 1  Faith in credit score: 0
+111  Society 1  Average Income: 11750.0
+111  Society 1  Average Interest Rate: 0.01
+111  Society 1  Average Credit Score: 590.4
+111  Society 1  Credit Risk: 0.01
+112  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+112  Society 1  Average Debt: $12376.69
+112  Society 1  Average Delinquency: 1.0
+112  Society 1  Default Rate: 0.5
+112  Society 1  Bankers: 1
+112  Society 1  Consumer Debt: 24753.38826730146
+112  Society 1  Faith in credit score: 0
+112  Society 1  Average Income: 11750.0
+112  Society 1  Average Interest Rate: 0.01
+112  Society 1  Average Credit Score: 588.1
+112  Society 1  Credit Risk: 0.01
+113  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+113  Society 1  Average Debt: $12501.06
+113  Society 1  Average Delinquency: 1.0
+113  Society 1  Default Rate: 0.5
+113  Society 1  Bankers: 1
+113  Society 1  Consumer Debt: 25002.122294306297
+113  Society 1  Faith in credit score: 0
+113  Society 1  Average Income: 11750.0
+113  Society 1  Average Interest Rate: 0.01
+113  Society 1  Average Credit Score: 588.1
+113  Society 1  Credit Risk: 0.01
+114  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+114  Society 1  Average Debt: $12626.68
+114  Society 1  Average Delinquency: 1.0
+114  Society 1  Default Rate: 0.49999999999999994
+114  Society 1  Bankers: 1
+114  Society 1  Consumer Debt: 25253.35572121235
+114  Society 1  Faith in credit score: 0
+114  Society 1  Average Income: 11750.0
+114  Society 1  Average Interest Rate: 0.01
+114  Society 1  Average Credit Score: 588.1
+114  Society 1  Credit Risk: 0.01
+115  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+115  Society 1  Average Debt: $12753.56
+115  Society 1  Average Delinquency: 1.0
+115  Society 1  Default Rate: 0.49999999999999994
+115  Society 1  Bankers: 1
+115  Society 1  Consumer Debt: 25507.11366319964
+115  Society 1  Faith in credit score: 0
+115  Society 1  Average Income: 11750.0
+115  Society 1  Average Interest Rate: 0.01
+115  Society 1  Average Credit Score: 588.1
+115  Society 1  Credit Risk: 0.01
+116  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+116  Society 1  Average Debt: $12881.71
+116  Society 1  Average Delinquency: 1.0
+116  Society 1  Default Rate: 0.49999999999999983
+116  Society 1  Bankers: 1
+116  Society 1  Consumer Debt: 25763.42148781768
+116  Society 1  Faith in credit score: 0
+116  Society 1  Average Income: 11750.0
+116  Society 1  Average Interest Rate: 0.01
+116  Society 1  Average Credit Score: 588.1
+116  Society 1  Credit Risk: 0.01
+117  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+117  Society 1  Average Debt: $13011.15
+117  Society 1  Average Delinquency: 1.0
+117  Society 1  Default Rate: 0.49999999999999983
+117  Society 1  Bankers: 1
+117  Society 1  Consumer Debt: 26022.30481752139
+117  Society 1  Faith in credit score: 0
+117  Society 1  Average Income: 11750.0
+117  Society 1  Average Interest Rate: 0.01
+117  Society 1  Average Credit Score: 588.1
+117  Society 1  Credit Risk: 0.01
+118  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+118  Society 1  Average Debt: $13141.89
+118  Society 1  Average Delinquency: 1.0
+118  Society 1  Default Rate: 0.4999999999999999
+118  Society 1  Bankers: 1
+118  Society 1  Consumer Debt: 26283.78953223253
+118  Society 1  Faith in credit score: 0
+118  Society 1  Average Income: 11750.0
+118  Society 1  Average Interest Rate: 0.01
+118  Society 1  Average Credit Score: 588.1
+118  Society 1  Credit Risk: 0.01
+119  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+119  Society 1  Average Debt: $13273.95
+119  Society 1  Average Delinquency: 1.0
+119  Society 1  Default Rate: 0.4999999999999999
+119  Society 1  Bankers: 1
+119  Society 1  Consumer Debt: 26547.901771926838
+119  Society 1  Faith in credit score: 0
+119  Society 1  Average Income: 11750.0
+119  Society 1  Average Interest Rate: 0.01
+119  Society 1  Average Credit Score: 588.1
+119  Society 1  Credit Risk: 0.01
+120  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+120  Society 1  Average Debt: $13407.33
+120  Society 1  Average Delinquency: 1.0
+120  Society 1  Default Rate: 0.4999999999999999
+120  Society 1  Bankers: 1
+120  Society 1  Consumer Debt: 26814.66793924717
+120  Society 1  Faith in credit score: 0
+120  Society 1  Average Income: 11941.666666666668
+120  Society 1  Average Interest Rate: 0.01
+120  Society 1  Average Credit Score: 588.1
+120  Society 1  Credit Risk: 0.01
+121  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+121  Society 1  Average Debt: $13542.06
+121  Society 1  Average Delinquency: 1.0
+121  Society 1  Default Rate: 0.4999999999999999
+121  Society 1  Bankers: 1
+121  Society 1  Consumer Debt: 27084.114702142935
+121  Society 1  Faith in credit score: 0
+121  Society 1  Average Income: 11941.666666666668
+121  Society 1  Average Interest Rate: 0.01
+121  Society 1  Average Credit Score: 588.1
+121  Society 1  Credit Risk: 0.01
+122  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+122  Society 1  Average Debt: $13678.13
+122  Society 1  Average Delinquency: 1.0
+122  Society 1  Default Rate: 0.4999999999999999
+122  Society 1  Bankers: 1
+122  Society 1  Consumer Debt: 27356.268996535993
+122  Society 1  Faith in credit score: 0
+122  Society 1  Average Income: 11941.666666666668
+122  Society 1  Average Interest Rate: 0.01
+122  Society 1  Average Credit Score: 588.1
+122  Society 1  Credit Risk: 0.01
+123  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+123  Society 1  Average Debt: $13815.58
+123  Society 1  Average Delinquency: 1.0
+123  Society 1  Default Rate: 0.4999999999999999
+123  Society 1  Bankers: 1
+123  Society 1  Consumer Debt: 27631.158029013393
+123  Society 1  Faith in credit score: 0
+123  Society 1  Average Income: 11941.666666666668
+123  Society 1  Average Interest Rate: 0.01
+123  Society 1  Average Credit Score: 585.8
+123  Society 1  Credit Risk: 0.01
+124  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+124  Society 1  Average Debt: $13954.40
+124  Society 1  Average Delinquency: 1.0
+124  Society 1  Default Rate: 0.4999999999999998
+124  Society 1  Bankers: 1
+124  Society 1  Consumer Debt: 27908.809279547135
+124  Society 1  Faith in credit score: 0
+124  Society 1  Average Income: 11941.666666666668
+124  Society 1  Average Interest Rate: 0.01
+124  Society 1  Average Credit Score: 585.8
+124  Society 1  Credit Risk: 0.01
+125  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+125  Society 1  Average Debt: $14094.63
+125  Society 1  Average Delinquency: 1.0
+125  Society 1  Default Rate: 0.49999999999999983
+125  Society 1  Bankers: 1
+125  Society 1  Consumer Debt: 28189.25050424128
+125  Society 1  Faith in credit score: 0
+125  Society 1  Average Income: 11941.666666666668
+125  Society 1  Average Interest Rate: 0.01
+125  Society 1  Average Credit Score: 585.8
+125  Society 1  Credit Risk: 0.01
+126  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+126  Society 1  Average Debt: $14236.25
+126  Society 1  Average Delinquency: 1.0
+126  Society 1  Default Rate: 0.4999999999999997
+126  Society 1  Bankers: 1
+126  Society 1  Consumer Debt: 28472.50973810666
+126  Society 1  Faith in credit score: 0
+126  Society 1  Average Income: 11941.666666666668
+126  Society 1  Average Interest Rate: 0.01
+126  Society 1  Average Credit Score: 585.8
+126  Society 1  Credit Risk: 0.01
+127  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+127  Society 1  Average Debt: $14379.31
+127  Society 1  Average Delinquency: 1.0
+127  Society 1  Default Rate: 0.4999999999999997
+127  Society 1  Bankers: 1
+127  Society 1  Consumer Debt: 28758.615297863456
+127  Society 1  Faith in credit score: 0
+127  Society 1  Average Income: 11941.666666666668
+127  Society 1  Average Interest Rate: 0.01
+127  Society 1  Average Credit Score: 585.8
+127  Society 1  Credit Risk: 0.01
+128  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+128  Society 1  Average Debt: $14523.80
+128  Society 1  Average Delinquency: 1.0
+128  Society 1  Default Rate: 0.4999999999999997
+128  Society 1  Bankers: 1
+128  Society 1  Consumer Debt: 29047.595784771976
+128  Society 1  Faith in credit score: 0
+128  Society 1  Average Income: 11941.666666666668
+128  Society 1  Average Interest Rate: 0.01
+128  Society 1  Average Credit Score: 585.8
+128  Society 1  Credit Risk: 0.01
+129  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+129  Society 1  Average Debt: $14669.74
+129  Society 1  Average Delinquency: 1.0
+129  Society 1  Default Rate: 0.4999999999999998
+129  Society 1  Bankers: 1
+129  Society 1  Consumer Debt: 29339.48008749183
+129  Society 1  Faith in credit score: 0
+129  Society 1  Average Income: 11941.666666666668
+129  Society 1  Average Interest Rate: 0.01
+129  Society 1  Average Credit Score: 585.8
+129  Society 1  Credit Risk: 0.01
+130  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+130  Society 1  Average Debt: $14817.15
+130  Society 1  Average Delinquency: 1.0
+130  Society 1  Default Rate: 0.49999999999999983
+130  Society 1  Bankers: 1
+130  Society 1  Consumer Debt: 29634.297384969846
+130  Society 1  Faith in credit score: 0
+130  Society 1  Average Income: 11941.666666666668
+130  Society 1  Average Interest Rate: 0.01
+130  Society 1  Average Credit Score: 583.5
+130  Society 1  Credit Risk: 0.01
+131  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+131  Society 1  Average Debt: $14966.04
+131  Society 1  Average Delinquency: 1.0
+131  Society 1  Default Rate: 0.4999999999999999
+131  Society 1  Bankers: 1
+131  Society 1  Consumer Debt: 29932.077149357065
+131  Society 1  Faith in credit score: 0
+131  Society 1  Average Income: 11941.666666666668
+131  Society 1  Average Interest Rate: 0.01
+131  Society 1  Average Credit Score: 583.5
+131  Society 1  Credit Risk: 0.01
+132  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+132  Society 1  Average Debt: $15116.42
+132  Society 1  Average Delinquency: 1.0
+132  Society 1  Default Rate: 0.49999999999999983
+132  Society 1  Bankers: 1
+132  Society 1  Consumer Debt: 30232.84914895494
+132  Society 1  Faith in credit score: 0
+132  Society 1  Average Income: 11941.666666666668
+132  Society 1  Average Interest Rate: 0.01
+132  Society 1  Average Credit Score: 583.5
+132  Society 1  Credit Risk: 0.01
+133  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+133  Society 1  Average Debt: $15268.32
+133  Society 1  Average Delinquency: 1.0
+133  Society 1  Default Rate: 0.4999999999999999
+133  Society 1  Bankers: 1
+133  Society 1  Consumer Debt: 30536.643451191252
+133  Society 1  Faith in credit score: 0
+133  Society 1  Average Income: 11941.666666666668
+133  Society 1  Average Interest Rate: 0.01
+133  Society 1  Average Credit Score: 583.5
+133  Society 1  Credit Risk: 0.01
+134  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+134  Society 1  Average Debt: $15421.75
+134  Society 1  Average Delinquency: 1.0
+134  Society 1  Default Rate: 0.4999999999999998
+134  Society 1  Bankers: 1
+134  Society 1  Consumer Debt: 30843.490425625823
+134  Society 1  Faith in credit score: 0
+134  Society 1  Average Income: 11941.666666666668
+134  Society 1  Average Interest Rate: 0.01
+134  Society 1  Average Credit Score: 583.5
+134  Society 1  Credit Risk: 0.01
+135  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+135  Society 1  Average Debt: $15576.71
+135  Society 1  Average Delinquency: 1.0
+135  Society 1  Default Rate: 0.49999999999999983
+135  Society 1  Bankers: 1
+135  Society 1  Consumer Debt: 31153.420746986525
+135  Society 1  Faith in credit score: 0
+135  Society 1  Average Income: 11941.666666666668
+135  Society 1  Average Interest Rate: 0.01
+135  Society 1  Average Credit Score: 583.5
+135  Society 1  Credit Risk: 0.01
+136  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+136  Society 1  Average Debt: $15733.23
+136  Society 1  Average Delinquency: 1.0
+136  Society 1  Default Rate: 0.4999999999999998
+136  Society 1  Bankers: 1
+136  Society 1  Consumer Debt: 31466.46539823575
+136  Society 1  Faith in credit score: 0
+136  Society 1  Average Income: 11941.666666666668
+136  Society 1  Average Interest Rate: 0.01
+136  Society 1  Average Credit Score: 583.5
+136  Society 1  Credit Risk: 0.01
+137  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+137  Society 1  Average Debt: $15891.33
+137  Society 1  Average Delinquency: 1.0
+137  Society 1  Default Rate: 0.49999999999999983
+137  Society 1  Bankers: 1
+137  Society 1  Consumer Debt: 31782.655673667672
+137  Society 1  Faith in credit score: 0
+137  Society 1  Average Income: 11941.666666666668
+137  Society 1  Average Interest Rate: 0.01
+137  Society 1  Average Credit Score: 581.2
+137  Society 1  Credit Risk: 0.01
+138  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+138  Society 1  Average Debt: $16051.01
+138  Society 1  Average Delinquency: 1.0
+138  Society 1  Default Rate: 0.4999999999999998
+138  Society 1  Bankers: 1
+138  Society 1  Consumer Debt: 32102.02318203671
+138  Society 1  Faith in credit score: 0
+138  Society 1  Average Income: 11941.666666666668
+138  Society 1  Average Interest Rate: 0.01
+138  Society 1  Average Credit Score: 581.2
+138  Society 1  Credit Risk: 0.01
+139  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+139  Society 1  Average Debt: $16212.30
+139  Society 1  Average Delinquency: 1.0
+139  Society 1  Default Rate: 0.4999999999999997
+139  Society 1  Bankers: 1
+139  Society 1  Consumer Debt: 32424.599849717328
+139  Society 1  Faith in credit score: 0
+139  Society 1  Average Income: 11941.666666666668
+139  Society 1  Average Interest Rate: 0.01
+139  Society 1  Average Credit Score: 581.2
+139  Society 1  Credit Risk: 0.01
+140  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+140  Society 1  Average Debt: $16375.21
+140  Society 1  Average Delinquency: 1.0
+140  Society 1  Default Rate: 0.4999999999999998
+140  Society 1  Bankers: 1
+140  Society 1  Consumer Debt: 32750.417923895653
+140  Society 1  Faith in credit score: 0
+140  Society 1  Average Income: 11941.666666666668
+140  Society 1  Average Interest Rate: 0.01
+140  Society 1  Average Credit Score: 581.2
+140  Society 1  Credit Risk: 0.01
+141  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+141  Society 1  Average Debt: $16539.75
+141  Society 1  Average Delinquency: 1.0
+141  Society 1  Default Rate: 0.4999999999999998
+141  Society 1  Bankers: 1
+141  Society 1  Consumer Debt: 33079.50997579316
+141  Society 1  Faith in credit score: 0
+141  Society 1  Average Income: 11941.666666666668
+141  Society 1  Average Interest Rate: 0.01
+141  Society 1  Average Credit Score: 581.2
+141  Society 1  Credit Risk: 0.01
+142  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+142  Society 1  Average Debt: $16705.95
+142  Society 1  Average Delinquency: 1.0
+142  Society 1  Default Rate: 0.49999999999999967
+142  Society 1  Bankers: 1
+142  Society 1  Consumer Debt: 33411.90890392271
+142  Society 1  Faith in credit score: 0
+142  Society 1  Average Income: 11941.666666666668
+142  Society 1  Average Interest Rate: 0.01
+142  Society 1  Average Credit Score: 581.2
+142  Society 1  Credit Risk: 0.01
+143  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+143  Society 1  Average Debt: $16873.82
+143  Society 1  Average Delinquency: 1.0
+143  Society 1  Default Rate: 0.4999999999999998
+143  Society 1  Bankers: 1
+143  Society 1  Consumer Debt: 33747.64793737736
+143  Society 1  Faith in credit score: 0
+143  Society 1  Average Income: 11941.666666666668
+143  Society 1  Average Interest Rate: 0.01
+143  Society 1  Average Credit Score: 581.2
+143  Society 1  Credit Risk: 0.01
+144  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+144  Society 1  Average Debt: $17043.38
+144  Society 1  Average Delinquency: 1.0
+144  Society 1  Default Rate: 0.49999999999999956
+144  Society 1  Bankers: 1
+144  Society 1  Consumer Debt: 34086.76063915217
+144  Society 1  Faith in credit score: 0
+144  Society 1  Average Income: 11941.666666666668
+144  Society 1  Average Interest Rate: 0.01
+144  Society 1  Average Credit Score: 581.2
+144  Society 1  Credit Risk: 0.01
+145  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+145  Society 1  Average Debt: $17214.64
+145  Society 1  Average Delinquency: 1.0
+145  Society 1  Default Rate: 0.49999999999999956
+145  Society 1  Bankers: 1
+145  Society 1  Consumer Debt: 34429.28090949941
+145  Society 1  Faith in credit score: 0
+145  Society 1  Average Income: 11941.666666666668
+145  Society 1  Average Interest Rate: 0.01
+145  Society 1  Average Credit Score: 581.2
+145  Society 1  Credit Risk: 0.01
+146  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+146  Society 1  Average Debt: $17387.62
+146  Society 1  Average Delinquency: 1.0
+146  Society 1  Default Rate: 0.4999999999999995
+146  Society 1  Bankers: 1
+146  Society 1  Consumer Debt: 34775.242989317514
+146  Society 1  Faith in credit score: 0
+146  Society 1  Average Income: 11941.666666666668
+146  Society 1  Average Interest Rate: 0.01
+146  Society 1  Average Credit Score: 581.2
+146  Society 1  Credit Risk: 0.01
+147  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+147  Society 1  Average Debt: $17562.34
+147  Society 1  Average Delinquency: 1.0
+147  Society 1  Default Rate: 0.4999999999999994
+147  Society 1  Bankers: 1
+147  Society 1  Consumer Debt: 35124.681463574016
+147  Society 1  Faith in credit score: 0
+147  Society 1  Average Income: 11941.666666666668
+147  Society 1  Average Interest Rate: 0.01
+147  Society 1  Average Credit Score: 581.2
+147  Society 1  Credit Risk: 0.01
+148  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+148  Society 1  Average Debt: $17738.82
+148  Society 1  Average Delinquency: 1.0
+148  Society 1  Default Rate: 0.4999999999999996
+148  Society 1  Bankers: 1
+148  Society 1  Consumer Debt: 35477.63126476295
+148  Society 1  Faith in credit score: 0
+148  Society 1  Average Income: 11941.666666666668
+148  Society 1  Average Interest Rate: 0.01
+148  Society 1  Average Credit Score: 581.2
+148  Society 1  Credit Risk: 0.01
+149  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+149  Society 1  Average Debt: $17917.06
+149  Society 1  Average Delinquency: 1.0
+149  Society 1  Default Rate: 0.4999999999999996
+149  Society 1  Bankers: 1
+149  Society 1  Consumer Debt: 35834.127676396995
+149  Society 1  Faith in credit score: 0
+149  Society 1  Average Income: 11941.666666666668
+149  Society 1  Average Interest Rate: 0.01
+149  Society 1  Average Credit Score: 581.2
+149  Society 1  Credit Risk: 0.01
+150  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+150  Society 1  Average Debt: $18097.10
+150  Society 1  Average Delinquency: 1.0
+150  Society 1  Default Rate: 0.4999999999999996
+150  Society 1  Bankers: 1
+150  Society 1  Consumer Debt: 36194.20633653458
+150  Society 1  Faith in credit score: 0
+150  Society 1  Average Income: 12012.5
+150  Society 1  Average Interest Rate: 0.01
+150  Society 1  Average Credit Score: 581.2
+150  Society 1  Credit Risk: 0.01
+151  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+151  Society 1  Average Debt: $18278.95
+151  Society 1  Average Delinquency: 1.0
+151  Society 1  Default Rate: 0.4999999999999996
+151  Society 1  Bankers: 1
+151  Society 1  Consumer Debt: 36557.90324134266
+151  Society 1  Faith in credit score: 0
+151  Society 1  Average Income: 12012.5
+151  Society 1  Average Interest Rate: 0.01
+151  Society 1  Average Credit Score: 581.2
+151  Society 1  Credit Risk: 0.01
+152  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+152  Society 1  Average Debt: $18462.63
+152  Society 1  Average Delinquency: 1.0
+152  Society 1  Default Rate: 0.4999999999999997
+152  Society 1  Bankers: 1
+152  Society 1  Consumer Debt: 36925.25474869505
+152  Society 1  Faith in credit score: 0
+152  Society 1  Average Income: 12012.5
+152  Society 1  Average Interest Rate: 0.01
+152  Society 1  Average Credit Score: 581.2
+152  Society 1  Credit Risk: 0.01
+153  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+153  Society 1  Average Debt: $18648.15
+153  Society 1  Average Delinquency: 1.0
+153  Society 1  Default Rate: 0.4999999999999997
+153  Society 1  Bankers: 1
+153  Society 1  Consumer Debt: 37296.297581807106
+153  Society 1  Faith in credit score: 0
+153  Society 1  Average Income: 12012.5
+153  Society 1  Average Interest Rate: 0.01
+153  Society 1  Average Credit Score: 581.2
+153  Society 1  Credit Risk: 0.01
+154  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+154  Society 1  Average Debt: $18835.53
+154  Society 1  Average Delinquency: 1.0
+154  Society 1  Default Rate: 0.4999999999999997
+154  Society 1  Bankers: 1
+154  Society 1  Consumer Debt: 37671.06883290682
+154  Society 1  Faith in credit score: 0
+154  Society 1  Average Income: 12012.5
+154  Society 1  Average Interest Rate: 0.01
+154  Society 1  Average Credit Score: 581.2
+154  Society 1  Credit Risk: 0.01
+155  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+155  Society 1  Average Debt: $19024.80
+155  Society 1  Average Delinquency: 1.0
+155  Society 1  Default Rate: 0.4999999999999997
+155  Society 1  Bankers: 1
+155  Society 1  Consumer Debt: 38049.60596694285
+155  Society 1  Faith in credit score: 0
+155  Society 1  Average Income: 12012.5
+155  Society 1  Average Interest Rate: 0.01
+155  Society 1  Average Credit Score: 581.2
+155  Society 1  Credit Risk: 0.01
+156  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+156  Society 1  Average Debt: $19215.97
+156  Society 1  Average Delinquency: 1.0
+156  Society 1  Default Rate: 0.49999999999999983
+156  Society 1  Bankers: 1
+156  Society 1  Consumer Debt: 38431.94682532977
+156  Society 1  Faith in credit score: 0
+156  Society 1  Average Income: 12012.5
+156  Society 1  Average Interest Rate: 0.01
+156  Society 1  Average Credit Score: 581.2
+156  Society 1  Credit Risk: 0.01
+157  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+157  Society 1  Average Debt: $19409.06
+157  Society 1  Average Delinquency: 1.0
+157  Society 1  Default Rate: 0.4999999999999997
+157  Society 1  Bankers: 1
+157  Society 1  Consumer Debt: 38818.12962973104
+157  Society 1  Faith in credit score: 0
+157  Society 1  Average Income: 12012.5
+157  Society 1  Average Interest Rate: 0.01
+157  Society 1  Average Credit Score: 578.9
+157  Society 1  Credit Risk: 0.01
+158  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+158  Society 1  Average Debt: $19604.10
+158  Society 1  Average Delinquency: 1.0
+158  Society 1  Default Rate: 0.49999999999999983
+158  Society 1  Bankers: 1
+158  Society 1  Consumer Debt: 39208.19298587987
+158  Society 1  Faith in credit score: 0
+158  Society 1  Average Income: 12012.5
+158  Society 1  Average Interest Rate: 0.01
+158  Society 1  Average Credit Score: 578.9
+158  Society 1  Credit Risk: 0.01
+159  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+159  Society 1  Average Debt: $19801.09
+159  Society 1  Average Delinquency: 1.0
+159  Society 1  Default Rate: 0.49999999999999983
+159  Society 1  Bankers: 1
+159  Society 1  Consumer Debt: 39602.17588743857
+159  Society 1  Faith in credit score: 0
+159  Society 1  Average Income: 12012.5
+159  Society 1  Average Interest Rate: 0.01
+159  Society 1  Average Credit Score: 578.9
+159  Society 1  Credit Risk: 0.01
+160  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+160  Society 1  Average Debt: $20000.06
+160  Society 1  Average Delinquency: 1.0
+160  Society 1  Default Rate: 0.49999999999999983
+160  Society 1  Bankers: 1
+160  Society 1  Consumer Debt: 40000.11771989665
+160  Society 1  Faith in credit score: 0
+160  Society 1  Average Income: 12012.5
+160  Society 1  Average Interest Rate: 0.01
+160  Society 1  Average Credit Score: 578.9
+160  Society 1  Credit Risk: 0.01
+161  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+161  Society 1  Average Debt: $20201.03
+161  Society 1  Average Delinquency: 1.0
+161  Society 1  Default Rate: 0.4999999999999999
+161  Society 1  Bankers: 1
+161  Society 1  Consumer Debt: 40402.05826450807
+161  Society 1  Faith in credit score: 0
+161  Society 1  Average Income: 12012.5
+161  Society 1  Average Interest Rate: 0.01
+161  Society 1  Average Credit Score: 578.9
+161  Society 1  Credit Risk: 0.01
+162  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+162  Society 1  Average Debt: $20404.02
+162  Society 1  Average Delinquency: 1.0
+162  Society 1  Default Rate: 0.4999999999999999
+162  Society 1  Bankers: 1
+162  Society 1  Consumer Debt: 40808.03770226811
+162  Society 1  Faith in credit score: 0
+162  Society 1  Average Income: 12012.5
+162  Society 1  Average Interest Rate: 0.01
+162  Society 1  Average Credit Score: 576.6
+162  Society 1  Credit Risk: 0.01
+163  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+163  Society 1  Average Debt: $20609.05
+163  Society 1  Average Delinquency: 1.0
+163  Society 1  Default Rate: 0.5
+163  Society 1  Bankers: 1
+163  Society 1  Consumer Debt: 41218.09661793012
+163  Society 1  Faith in credit score: 0
+163  Society 1  Average Income: 12012.5
+163  Society 1  Average Interest Rate: 0.01
+163  Society 1  Average Credit Score: 576.6
+163  Society 1  Credit Risk: 0.01
+164  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+164  Society 1  Average Debt: $20816.14
+164  Society 1  Average Delinquency: 1.0
+164  Society 1  Default Rate: 0.4999999999999999
+164  Society 1  Bankers: 1
+164  Society 1  Consumer Debt: 41632.276004062696
+164  Society 1  Faith in credit score: 0
+164  Society 1  Average Income: 12012.5
+164  Society 1  Average Interest Rate: 0.01
+164  Society 1  Average Credit Score: 576.6
+164  Society 1  Credit Risk: 0.01
+165  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+165  Society 1  Average Debt: $21025.31
+165  Society 1  Average Delinquency: 1.0
+165  Society 1  Default Rate: 0.5
+165  Society 1  Bankers: 1
+165  Society 1  Consumer Debt: 42050.61726514759
+165  Society 1  Faith in credit score: 0
+165  Society 1  Average Income: 12012.5
+165  Society 1  Average Interest Rate: 0.01
+165  Society 1  Average Credit Score: 576.6
+165  Society 1  Credit Risk: 0.01
+166  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+166  Society 1  Average Debt: $21236.58
+166  Society 1  Average Delinquency: 1.0
+166  Society 1  Default Rate: 0.5
+166  Society 1  Bankers: 1
+166  Society 1  Consumer Debt: 42473.162221718885
+166  Society 1  Faith in credit score: 0
+166  Society 1  Average Income: 12012.5
+166  Society 1  Average Interest Rate: 0.01
+166  Society 1  Average Credit Score: 576.6
+166  Society 1  Credit Risk: 0.01
+167  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+167  Society 1  Average Debt: $21449.98
+167  Society 1  Average Delinquency: 1.0
+167  Society 1  Default Rate: 0.5
+167  Society 1  Bankers: 1
+167  Society 1  Consumer Debt: 42899.953114543576
+167  Society 1  Faith in credit score: 0
+167  Society 1  Average Income: 12012.5
+167  Society 1  Average Interest Rate: 0.01
+167  Society 1  Average Credit Score: 576.6
+167  Society 1  Credit Risk: 0.01
+168  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+168  Society 1  Average Debt: $21665.52
+168  Society 1  Average Delinquency: 1.0
+168  Society 1  Default Rate: 0.4999999999999999
+168  Society 1  Bankers: 1
+168  Society 1  Consumer Debt: 43331.032608844354
+168  Society 1  Faith in credit score: 0
+168  Society 1  Average Income: 12012.5
+168  Society 1  Average Interest Rate: 0.01
+168  Society 1  Average Credit Score: 576.6
+168  Society 1  Credit Risk: 0.01
+169  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+169  Society 1  Average Debt: $21883.22
+169  Society 1  Average Delinquency: 1.0
+169  Society 1  Default Rate: 0.5
+169  Society 1  Bankers: 1
+169  Society 1  Consumer Debt: 43766.44379856471
+169  Society 1  Faith in credit score: 0
+169  Society 1  Average Income: 12012.5
+169  Society 1  Average Interest Rate: 0.01
+169  Society 1  Average Credit Score: 576.6
+169  Society 1  Credit Risk: 0.01
+170  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+170  Society 1  Average Debt: $22103.12
+170  Society 1  Average Delinquency: 1.0
+170  Society 1  Default Rate: 0.49999999999999994
+170  Society 1  Bankers: 1
+170  Society 1  Consumer Debt: 44206.23021067696
+170  Society 1  Faith in credit score: 0
+170  Society 1  Average Income: 12012.5
+170  Society 1  Average Interest Rate: 0.01
+170  Society 1  Average Credit Score: 576.6
+170  Society 1  Credit Risk: 0.01
+171  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+171  Society 1  Average Debt: $22325.22
+171  Society 1  Average Delinquency: 1.0
+171  Society 1  Default Rate: 0.5
+171  Society 1  Bankers: 1
+171  Society 1  Consumer Debt: 44650.43580953346
+171  Society 1  Faith in credit score: 0
+171  Society 1  Average Income: 12012.5
+171  Society 1  Average Interest Rate: 0.01
+171  Society 1  Average Credit Score: 574.3
+171  Society 1  Credit Risk: 0.01
+172  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+172  Society 1  Average Debt: $22549.55
+172  Society 1  Average Delinquency: 1.0
+172  Society 1  Default Rate: 0.49999999999999983
+172  Society 1  Bankers: 1
+172  Society 1  Consumer Debt: 45099.105001261734
+172  Society 1  Faith in credit score: 0
+172  Society 1  Average Income: 12012.5
+172  Society 1  Average Interest Rate: 0.01
+172  Society 1  Average Credit Score: 574.3
+172  Society 1  Credit Risk: 0.01
+173  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+173  Society 1  Average Debt: $22776.14
+173  Society 1  Average Delinquency: 1.0
+173  Society 1  Default Rate: 0.49999999999999994
+173  Society 1  Bankers: 1
+173  Society 1  Consumer Debt: 45552.2826382035
+173  Society 1  Faith in credit score: 0
+173  Society 1  Average Income: 12012.5
+173  Society 1  Average Interest Rate: 0.01
+173  Society 1  Average Credit Score: 574.3
+173  Society 1  Credit Risk: 0.01
+174  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+174  Society 1  Average Debt: $23005.01
+174  Society 1  Average Delinquency: 1.0
+174  Society 1  Default Rate: 0.5
+174  Society 1  Bankers: 1
+174  Society 1  Consumer Debt: 46010.014023398544
+174  Society 1  Faith in credit score: 0
+174  Society 1  Average Income: 12012.5
+174  Society 1  Average Interest Rate: 0.01
+174  Society 1  Average Credit Score: 574.3
+174  Society 1  Credit Risk: 0.01
+175  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+175  Society 1  Average Debt: $23236.17
+175  Society 1  Average Delinquency: 1.0
+175  Society 1  Default Rate: 0.5
+175  Society 1  Bankers: 1
+175  Society 1  Consumer Debt: 46472.34491511353
+175  Society 1  Faith in credit score: 0
+175  Society 1  Average Income: 12012.5
+175  Society 1  Average Interest Rate: 0.01
+175  Society 1  Average Credit Score: 574.3
+175  Society 1  Credit Risk: 0.01
+176  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+176  Society 1  Average Debt: $23469.66
+176  Society 1  Average Delinquency: 1.0
+176  Society 1  Default Rate: 0.5000000000000001
+176  Society 1  Bankers: 1
+176  Society 1  Consumer Debt: 46939.321531416324
+176  Society 1  Faith in credit score: 0
+176  Society 1  Average Income: 12012.5
+176  Society 1  Average Interest Rate: 0.01
+176  Society 1  Average Credit Score: 572.0
+176  Society 1  Credit Risk: 0.01
+177  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+177  Society 1  Average Debt: $23705.50
+177  Society 1  Average Delinquency: 1.0
+177  Society 1  Default Rate: 0.5
+177  Society 1  Bankers: 1
+177  Society 1  Consumer Debt: 47410.99055479633
+177  Society 1  Faith in credit score: 0
+177  Society 1  Average Income: 12012.5
+177  Society 1  Average Interest Rate: 0.01
+177  Society 1  Average Credit Score: 572.0
+177  Society 1  Credit Risk: 0.01
+178  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+178  Society 1  Average Debt: $23943.70
+178  Society 1  Average Delinquency: 1.0
+178  Society 1  Default Rate: 0.5000000000000001
+178  Society 1  Bankers: 1
+178  Society 1  Consumer Debt: 47887.39913683115
+178  Society 1  Faith in credit score: 0
+178  Society 1  Average Income: 12012.5
+178  Society 1  Average Interest Rate: 0.01
+178  Society 1  Average Credit Score: 569.7
+178  Society 1  Credit Risk: 0.01
+179  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+179  Society 1  Average Debt: $24184.30
+179  Society 1  Average Delinquency: 1.0
+179  Society 1  Default Rate: 0.5
+179  Society 1  Bankers: 1
+179  Society 1  Consumer Debt: 48368.59490290034
+179  Society 1  Faith in credit score: 0
+179  Society 1  Average Income: 12012.5
+179  Society 1  Average Interest Rate: 0.01
+179  Society 1  Average Credit Score: 569.7
+179  Society 1  Credit Risk: 0.01
+180  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+180  Society 1  Average Debt: $24427.31
+180  Society 1  Average Delinquency: 1.0
+180  Society 1  Default Rate: 0.5
+180  Society 1  Bankers: 1
+180  Society 1  Consumer Debt: 48854.62595694623
+180  Society 1  Faith in credit score: 0
+180  Society 1  Average Income: 12061.666666666664
+180  Society 1  Average Interest Rate: 0.01
+180  Society 1  Average Credit Score: 569.7
+180  Society 1  Credit Risk: 0.01
+181  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+181  Society 1  Average Debt: $24672.77
+181  Society 1  Average Delinquency: 1.0
+181  Society 1  Default Rate: 0.5000000000000001
+181  Society 1  Bankers: 1
+181  Society 1  Consumer Debt: 49345.54088628293
+181  Society 1  Faith in credit score: 0
+181  Society 1  Average Income: 12061.666666666664
+181  Society 1  Average Interest Rate: 0.01
+181  Society 1  Average Credit Score: 569.7
+181  Society 1  Credit Risk: 0.01
+182  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+182  Society 1  Average Debt: $24920.69
+182  Society 1  Average Delinquency: 1.0
+182  Society 1  Default Rate: 0.5
+182  Society 1  Bankers: 1
+182  Society 1  Consumer Debt: 49841.388766453354
+182  Society 1  Faith in credit score: 0
+182  Society 1  Average Income: 12061.666666666664
+182  Society 1  Average Interest Rate: 0.01
+182  Society 1  Average Credit Score: 569.7
+182  Society 1  Credit Risk: 0.01
+183  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+183  Society 1  Average Debt: $25171.11
+183  Society 1  Average Delinquency: 1.0
+183  Society 1  Default Rate: 0.5
+183  Society 1  Bankers: 1
+183  Society 1  Consumer Debt: 50342.21916613524
+183  Society 1  Faith in credit score: 0
+183  Society 1  Average Income: 12061.666666666664
+183  Society 1  Average Interest Rate: 0.01
+183  Society 1  Average Credit Score: 569.7
+183  Society 1  Credit Risk: 0.01
+184  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+184  Society 1  Average Debt: $25424.04
+184  Society 1  Average Delinquency: 1.0
+184  Society 1  Default Rate: 0.49999999999999994
+184  Society 1  Bankers: 1
+184  Society 1  Consumer Debt: 50848.082152096395
+184  Society 1  Faith in credit score: 0
+184  Society 1  Average Income: 12061.666666666664
+184  Society 1  Average Interest Rate: 0.01
+184  Society 1  Average Credit Score: 569.7
+184  Society 1  Credit Risk: 0.01
+185  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+185  Society 1  Average Debt: $25679.51
+185  Society 1  Average Delinquency: 1.0
+185  Society 1  Default Rate: 0.5
+185  Society 1  Bankers: 1
+185  Society 1  Consumer Debt: 51359.02829419973
+185  Society 1  Faith in credit score: 0
+185  Society 1  Average Income: 12061.666666666664
+185  Society 1  Average Interest Rate: 0.01
+185  Society 1  Average Credit Score: 569.7
+185  Society 1  Credit Risk: 0.01
+186  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+186  Society 1  Average Debt: $25937.55
+186  Society 1  Average Delinquency: 1.0
+186  Society 1  Default Rate: 0.49999999999999983
+186  Society 1  Bankers: 1
+186  Society 1  Consumer Debt: 51875.108670458634
+186  Society 1  Faith in credit score: 0
+186  Society 1  Average Income: 12061.666666666664
+186  Society 1  Average Interest Rate: 0.01
+186  Society 1  Average Credit Score: 569.7
+186  Society 1  Credit Risk: 0.01
+187  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+187  Society 1  Average Debt: $26198.19
+187  Society 1  Average Delinquency: 1.0
+187  Society 1  Default Rate: 0.49999999999999983
+187  Society 1  Bankers: 1
+187  Society 1  Consumer Debt: 52396.37487214308
+187  Society 1  Faith in credit score: 0
+187  Society 1  Average Income: 12061.666666666664
+187  Society 1  Average Interest Rate: 0.01
+187  Society 1  Average Credit Score: 567.4
+187  Society 1  Credit Risk: 0.01
+188  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+188  Society 1  Average Debt: $26461.44
+188  Society 1  Average Delinquency: 1.0
+188  Society 1  Default Rate: 0.4999999999999999
+188  Society 1  Bankers: 1
+188  Society 1  Consumer Debt: 52922.87900893712
+188  Society 1  Faith in credit score: 0
+188  Society 1  Average Income: 12061.666666666664
+188  Society 1  Average Interest Rate: 0.01
+188  Society 1  Average Credit Score: 567.4
+188  Society 1  Credit Risk: 0.01
+189  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+189  Society 1  Average Debt: $26727.34
+189  Society 1  Average Delinquency: 1.0
+189  Society 1  Default Rate: 0.4999999999999999
+189  Society 1  Bankers: 1
+189  Society 1  Consumer Debt: 53454.6737141481
+189  Society 1  Faith in credit score: 0
+189  Society 1  Average Income: 12061.666666666664
+189  Society 1  Average Interest Rate: 0.01
+189  Society 1  Average Credit Score: 567.4
+189  Society 1  Credit Risk: 0.01
+190  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+190  Society 1  Average Debt: $26995.91
+190  Society 1  Average Delinquency: 1.0
+190  Society 1  Default Rate: 0.4999999999999998
+190  Society 1  Bankers: 1
+190  Society 1  Consumer Debt: 53991.812149968355
+190  Society 1  Faith in credit score: 0
+190  Society 1  Average Income: 12061.666666666664
+190  Society 1  Average Interest Rate: 0.01
+190  Society 1  Average Credit Score: 567.4
+190  Society 1  Credit Risk: 0.01
+191  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+191  Society 1  Average Debt: $27267.17
+191  Society 1  Average Delinquency: 1.0
+191  Society 1  Default Rate: 0.4999999999999997
+191  Society 1  Bankers: 1
+191  Society 1  Consumer Debt: 54534.34801278962
+191  Society 1  Faith in credit score: 0
+191  Society 1  Average Income: 12061.666666666664
+191  Society 1  Average Interest Rate: 0.01
+191  Society 1  Average Credit Score: 567.4
+191  Society 1  Credit Risk: 0.01
+192  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+192  Society 1  Average Debt: $27541.17
+192  Society 1  Average Delinquency: 1.0
+192  Society 1  Default Rate: 0.4999999999999997
+192  Society 1  Bankers: 1
+192  Society 1  Consumer Debt: 55082.335538571
+192  Society 1  Faith in credit score: 0
+192  Society 1  Average Income: 12061.666666666664
+192  Society 1  Average Interest Rate: 0.01
+192  Society 1  Average Credit Score: 567.4
+192  Society 1  Credit Risk: 0.01
+193  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+193  Society 1  Average Debt: $27817.91
+193  Society 1  Average Delinquency: 1.0
+193  Society 1  Default Rate: 0.4999999999999997
+193  Society 1  Bankers: 1
+193  Society 1  Consumer Debt: 55635.829508260744
+193  Society 1  Faith in credit score: 0
+193  Society 1  Average Income: 12061.666666666664
+193  Society 1  Average Interest Rate: 0.01
+193  Society 1  Average Credit Score: 567.4
+193  Society 1  Credit Risk: 0.01
+194  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+194  Society 1  Average Debt: $28097.44
+194  Society 1  Average Delinquency: 1.0
+194  Society 1  Default Rate: 0.4999999999999997
+194  Society 1  Bankers: 1
+194  Society 1  Consumer Debt: 56194.8852532726
+194  Society 1  Faith in credit score: 0
+194  Society 1  Average Income: 12061.666666666664
+194  Society 1  Average Interest Rate: 0.01
+194  Society 1  Average Credit Score: 567.4
+194  Society 1  Credit Risk: 0.01
+195  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+195  Society 1  Average Debt: $28379.78
+195  Society 1  Average Delinquency: 1.0
+195  Society 1  Default Rate: 0.4999999999999999
+195  Society 1  Bankers: 1
+195  Society 1  Consumer Debt: 56759.558661017145
+195  Society 1  Faith in credit score: 0
+195  Society 1  Average Income: 12061.666666666664
+195  Society 1  Average Interest Rate: 0.01
+195  Society 1  Average Credit Score: 567.4
+195  Society 1  Credit Risk: 0.01
+196  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+196  Society 1  Average Debt: $28664.95
+196  Society 1  Average Delinquency: 1.0
+196  Society 1  Default Rate: 0.4999999999999999
+196  Society 1  Bankers: 1
+196  Society 1  Consumer Debt: 57329.90618048871
+196  Society 1  Faith in credit score: 0
+196  Society 1  Average Income: 12061.666666666664
+196  Society 1  Average Interest Rate: 0.01
+196  Society 1  Average Credit Score: 567.4
+196  Society 1  Credit Risk: 0.01
+197  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+197  Society 1  Average Debt: $28952.99
+197  Society 1  Average Delinquency: 1.0
+197  Society 1  Default Rate: 0.4999999999999999
+197  Society 1  Bankers: 1
+197  Society 1  Consumer Debt: 57905.984827908425
+197  Society 1  Faith in credit score: 0
+197  Society 1  Average Income: 12061.666666666664
+197  Society 1  Average Interest Rate: 0.01
+197  Society 1  Average Credit Score: 567.4
+197  Society 1  Credit Risk: 0.01
+198  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+198  Society 1  Average Debt: $29243.93
+198  Society 1  Average Delinquency: 1.0
+198  Society 1  Default Rate: 0.4999999999999999
+198  Society 1  Bankers: 1
+198  Society 1  Consumer Debt: 58487.85219242405
+198  Society 1  Faith in credit score: 0
+198  Society 1  Average Income: 12061.666666666664
+198  Society 1  Average Interest Rate: 0.01
+198  Society 1  Average Credit Score: 565.1
+198  Society 1  Credit Risk: 0.01
+199  Society 1  $1000000.00
+WARNING: credit risk of 100% (I hope the p-value is high this time.)
+199  Society 1  Average Debt: $29537.78
+199  Society 1  Average Delinquency: 1.0
+199  Society 1  Default Rate: 0.49999999999999994
+199  Society 1  Bankers: 1
+199  Society 1  Consumer Debt: 59075.56644186692
+199  Society 1  Faith in credit score: 0
+199  Society 1  Average Income: 12061.666666666664
+199  Society 1  Average Interest Rate: 0.01
+199  Society 1  Average Credit Score: 565.1
+199  Society 1  Credit Risk: 0.01

@@ -338,20 +338,29 @@ class Person():
         self.id = len(society.people) + 1
         self.generate_name()
 
-        self.wealth = 0
-        self.cash = initial_cash #TODO: initial cash var?
-        self.initial_cash = initial_cash
-        self.spending_habits = spending_habits
+
         self.age = age
         self.society = society
         self.birthday = birthday
         self.days_until_next_birthday = 365 - birthday
+        self.thoughts = []
         #what job does this person have?
         self.trade = random.randint(0,society.variety_of_jobs-1)
         #add their job to the economy
         self.society.jobs.append(Job(self.trade, society))
 
-        ###########################3
+        ###########################
+        #
+        #  Finance
+        #
+        ###########################
+
+        self.wealth = 0
+        self.cash = initial_cash #TODO: initial cash var?
+        self.initial_cash = initial_cash
+        self.spending_habits = spending_habits
+
+        ###########################
         #
         #  Debt
         #
@@ -497,15 +506,17 @@ class Person():
                     #calculate interest rate
                     d = Debt(self.society, amount+amount*self.risk_tolerance, self, None)
                     interest_rate = d.calculate_interest_rate(amount, self, self.society)
+                    if interest_rate == self.society.interest_rate * 2:
+                        achievement("\"Phenomenal Credit Score\": A lender has offered the best possible interest rate.")
                 
                 if interest_rate == None or self.is_too_risky(
                         interest_rate): #bank denied loan or risk was too much
                     self.spending.append(0.0) 
                     if interest_rate != None:
-                        self.society.log(self.name + " decided not to take a loan at "+str(round(interest_rate*100)) + "%")
+                        self.thoughts.append("Day " + str(self.society.day) + " I'm not taking a loan at "+str(round(interest_rate*100)) + "%")
                         if interest_rate < 0.02:
                             #achievement get
-                            log("\"I don't believe in debt:\" Someone refused a debt at less than 2% interest") #TODO: poisson will make this rare
+                            achievement("\"It is Forbidden:\" Someone refused a debt at less than 2% interest")
                     return
                 else: #borrow the money
                     self.borrow(d, interest_rate=interest_rate)
@@ -522,7 +533,7 @@ class Person():
     def borrow(self, debt, interest_rate=None):
         if debt.loan > self.society.money_reserves:
             #Acheivement get
-            log("\Pay You Back With Interest\" Somebody borrowed more cash than there is money.")
+            achievement("\Pay You Back With Interest\" Somebody borrowed more cash than there is money.")
         #self.debt += amount ...calculate when calculating wealth
         available_bankers = self.society.bankers[:]
         if self.trade == -1: #do not borrow from self
@@ -591,7 +602,7 @@ class Person():
                     self.service_debt()
                 else:
                     for d in self.debts:
-                        if d.minimum_payment > 0:
+                        if d.minimum_payment_due > 0:
                             d.delinquency(0)
 
             #TODO: add disposible income?
@@ -608,21 +619,21 @@ class Person():
 
         if self.debt > self.society.money_reserves:
             #acheivment get
-            achievement(0, "\"That's the Bank's Problem\" One person has more debt than there is money.")
+            achievement("\"That's the Bank's Problem\" One person has more debt than there is money.")
 
         i = 0
         debts_to_remove = []
         for d in self.debts:
-            if d.minimum_payment + d.back_payments > 0: #if we haven't paid yet
+            if d.minimum_payment_due + d.back_payments > 0: #if we haven't paid yet
                 #if we have the money, pay
-                if self.cash - d.minimum_payment - d.back_payments > 0:
-                    debt_expense += min([d.minimum_payment+d.back_payments, self.cash])
+                if self.cash - d.minimum_payment_due - d.back_payments > 0:
+                    debt_expense += min([d.minimum_payment_due+d.back_payments, self.cash])
                     d.decrease(debt_expense)
                     self.calculate_wealth() #recalculate debt value before removing debts #TODO: wealth metric will help when selling stuff to pay off debts
                     if d.principle == 0.0:
                         debts_to_remove.append(d)
                 else: #didn't have enough money for minimum payment
-                    if d.minimum_payment + d.back_payments > 0:
+                    if d.minimum_payment_due + d.back_payments > 0:
                         d.delinquency(self.cash) #partial payment
                         break
                 i+=1
@@ -823,7 +834,7 @@ class Debt(Commodity):
         else:
             self.interest_rate = interest_rate
         
-        self.minimum_payment = None
+        self.minimum_payment_due = None
         self.continuous = continuous
 
         self.society.debts.append(self)
@@ -897,12 +908,12 @@ class Debt(Commodity):
         else:
             z = 0
         
-        profit = 1.1 #TODO: this could be an interesting var
-        x = (1-society.credit_risk*profit)
+        profit = 1.5 #TODO: this could be an interesting var
+        x = (profit*(1+society.credit_risk))
         if x != 0:
-            return_on_investment = amount/(1-society.credit_risk*profit)
+            return_on_investment = amount*x - amount
             if return_on_investment < 0:
-                achievement(2, "\"Credit Crisis!\": Credit Risk is too high! Lenders can't make a profit.")
+                achievement("\"Credit Crisis!\": Credit Risk is too high! Lenders can't make a profit.")
                 self.remove_debt()
                 return
         else:
@@ -919,9 +930,9 @@ class Debt(Commodity):
             return
 
         #at X percent income
-        self.minimum_payment = person.income * percent_of_income
+        self.minimum_payment_due = person.income * percent_of_income
         #how many minimum payments needed to reach return on investment?
-        self.expected_payments = return_on_investment / self.minimum_payment
+        self.expected_payments = math.ceil( (return_on_investment+amount) / self.minimum_payment_due )
         
         #discount or penalty
         individual_factor = z*society.faith_in_credit_score 
@@ -929,7 +940,7 @@ class Debt(Commodity):
 
         #TODO: usury laws limit interest (banks will deny even desperate people for loans)
 
-        interest_rate = math.log(return_on_investment/amount)/self.expected_payments - (
+        interest_rate = math.log((return_on_investment+amount)/amount)/self.expected_payments - (
             individual_factor / 100 ) #after expected number of minimum payments, what is the profit?
 
         if interest_rate < society.interest_rate*2:
@@ -940,7 +951,7 @@ class Debt(Commodity):
         return interest_rate
 
     def recalculate_minimum_payment(self): #do this before debt is owed at var t
-        self.minimum_payment = self.principle / (self.expected_payments)
+        self.minimum_payment_due = self.principle / (self.expected_payments)
 
 
     def increase(self, amount):
@@ -965,7 +976,7 @@ class Debt(Commodity):
         cash_before = self.debtor.cash
 
         self.debtor.cash -= amount
-        if amount >= self.minimum_payment:
+        if amount >= self.minimum_payment_due:
             self.debtor.credit_score += preferences["credit"]["credit_score"]["minimum_payment_reward"]
             self.payments+=1
         else:
@@ -981,17 +992,17 @@ class Debt(Commodity):
             self.back_payments = 0
             amount -= self.back_payments
 
-        if self.minimum_payment > amount:
-            self.minimum_payment -= amount
+        if self.minimum_payment_due > amount:
+            self.minimum_payment_due -= amount
             amount = 0
         else:
-            self.minimum_payment = 0
-            amount -= self.minimum_payment
+            self.minimum_payment_due = 0
+            amount -= self.minimum_payment_due
 
         if self.back_payments == 0 and not self.defaulted:
             if self.delinquent:
                 #achievement get
-                achievement(1, "\"Clawed My Way Back!\": Someone pulled themselves out of arrears.")
+                achievement("\"Clawed My Way Back!\": Someone pulled themselves out of arrears.")
             self.delinquent = False
             self.days_delinquent = 0
 
@@ -1000,7 +1011,7 @@ class Debt(Commodity):
             print()
         if self.principle < 0:
             log("WARNING: Negative debt")
-        if self.minimum_payment < 0:
+        if self.minimum_payment_due < 0:
             log("WARNING: Negative minimum payments on a loan")
         if self.back_payments < 0:
             log("WARNING: Negative back payments on a loan")
@@ -1025,7 +1036,7 @@ class Debt(Commodity):
             self.days_delinquent += 1
 
         if self.defaulted:
-            self.minimum_payment = self.principle
+            self.minimum_payment_due = self.principle
             self.days_defaulted += 1
         elif self.age != 0 and self.age%self.time == 0:
             self.recalculate_minimum_payment()
@@ -1040,7 +1051,7 @@ class Debt(Commodity):
 
         try:
             self.debtor.debts.remove(self)
-            achievement(3, "\"Debt Free!\" Someone paid of a loan!")
+            achievement("\"Debt Free!\" Someone paid of a loan!")
         except ValueError:
             pass
         
@@ -1048,7 +1059,7 @@ class Debt(Commodity):
     def delinquency(self, partial_payment):
         self.delinquent = True
         if not self.defaulted:
-            self.back_payments += (self.minimum_payment - partial_payment)
+            self.back_payments += (self.minimum_payment_due - partial_payment)
         if self.back_payments < 0.0:
             log("Negative: Back payment calculated")
         if partial_payment > 0:
@@ -1065,7 +1076,7 @@ class Debt(Commodity):
         
     def default(self):
         self.defaulted = True
-        self.minimum_payment = self.principle
+        self.minimum_payment_due = self.principle
         self.backpayments = 0 #backpayments should go into the amount owed immediately after default
         self.debtor.credit_score -= preferences["credit"]["credit_score"]["default_penalty"]
         self.debtor.amt_debt_defaulted += self.principle #Used by credit analysts. Never go away. Does not go up with interest
@@ -1172,11 +1183,11 @@ def log(message):
     if preferences["print_logs"] == True:
         print(log_message)
 
-def achievement(id, text):
-    if id not in achievements:
+def achievement(text):
+    if text not in achievements:
         with open("achievements.txt", 'a') as l:
             l.write(str(text)+"\n")
-        achievements.append(id)
+        achievements.append(text)
         if preferences["print_achievements"] == True:
             print(text)
 
